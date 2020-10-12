@@ -6,14 +6,14 @@ Communautés, think tanks et acteurs privés
 
 * [Alliance Green IT](http://alliancegreenit.org)
 * [Collectif conception numérique responsable](https://collectif.greenit.fr/)
-* [DDemain](https://ddemain.com/) : Julie Orgelet, formatrice et consultante en analyse de cycle de vie.
+* [DDemain](https://ddemain.com/) créé par Julie Orgelet, formatrice et consultante en analyse de cycle de vie.
 * [EcoInfo](https://ecoinfo.cnrs.fr/), « pour une informatique éco-responsable », groupement de services du CNRS.
 * [Green code lab](https://www.greencodelab.org/)
 * [GreenIT.fr](https://www.greenit.fr/), créé par Frédéric Bordage, communauté des acteurs du numérique responsable qui s’intéressent à la sobriété numérique, à l’écoconception des services numériques, à la lowtech, et plus globalement à un avenir numérique alternatif (depuis 2004)
-* [Fing](https://fing.org/), pour un numérique porteur d’avenir et centré sur les capacités humaines
+* [Fing](https://fing.org/), pour un numérique porteur d’avenir et centré sur les capacités humaines.
 * [Institut Numérique Responsable](https://institutnr.org/)
-* [Point de MIR](http://www.point-de-mir.com/), maison de l'informatique responsable
-* [The Shift Project](https://theshiftproject.org/lean-ict/), projet "les impacts environnementaux du Numérique" (depuis 2018)
+* [Point de MIR](http://www.point-de-mir.com/), maison de l'informatique responsable fondée par Bela Loto et Céline Ferre
+* [The Shift Project](https://theshiftproject.org/lean-ict/), projet "les impacts environnementaux du Numérique" (depuis 2018) : Hugues Ferreboeuf (directeur de projet) et Maxime Efoui-Hess (chargé de projet).
 
 ## Constats
 
