@@ -40,7 +40,8 @@ Communautés, think tanks et acteurs privés
 
 ## Normes et labels
 
-* [Norme ISO 14062](https://www.iso.org/fr/standard/33020.html) : Management environnemental -- Intégration des aspects environnementaux dans la conception et le développement de produit
+* [Norme ISO 14062](https://www.iso.org/fr/standard/33020.html) : Management environnemental - Intégration des aspects environnementaux dans la conception et le développement de produit.
+* [Label Numérique Responsable](https://label-nr.fr/) à destination des organisations.
 
 ## Formation et certification
 
