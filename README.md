@@ -23,6 +23,7 @@
 * [GreenIT.fr](https://www.greenit.fr/), créé par Frédéric Bordage, communauté des acteurs du numérique responsable qui s’intéressent à la sobriété numérique, à l’écoconception des services numériques, à la lowtech, et plus globalement à un avenir numérique alternatif (depuis 2004)
 * [Greenspector](https://greenspector.com/), outil de mesure de l’empreinte environnementale des applications.
 * [Fing](https://fing.org/), pour un numérique porteur d’avenir et centré sur les capacités humaines.
+* [Halte à l'obsolescence programmée](https://www.halteobsolescence.org/)
 * [Institut Numérique Responsable](https://institutnr.org/)
 * [Point de MIR](http://www.point-de-mir.com/), maison de l'informatique responsable fondée par Bela Loto et Céline Ferre
 * [The Shift Project](https://theshiftproject.org/lean-ict/), projet "les impacts environnementaux du Numérique" (depuis 2018) : Hugues Ferreboeuf (directeur de projet) et Maxime Efoui-Hess (chargé de projet).
