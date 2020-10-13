@@ -1,5 +1,9 @@
 # Numérique éco-responsable
 
+## A propos
+
+Cette page a pour modeste ambition de lister les ressources et l'écosystème sur le sujet du numérique éco-responsable c'est à dire la prise en compte des impacts environnementaux du numérique. Vous pouvez contribuer à cette page, si vous avez un compte Github en proposant une modification par [_pull request_](https://github.com/supertanuki/numeriqueEcoResponsable/edit/main/README.md) sinon par [email](mailto:supertanuki@gmail.com).
+
 ## Etudes
 
 * [Empreinte environnementale du numérique mondial](https://www.greenit.fr/wp-content/uploads/2019/10/2019-10-GREENIT-etude_EENM-rapport-accessible.VF_.pdf), greenit.fr, octobre 2019.
