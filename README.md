@@ -34,6 +34,7 @@
 * [Institut Numérique Responsable](https://institutnr.org/), entre autres Jean-Christophe Chaussat (Pôle-Emploi) et Vincent Courboulay (Université de la Rochelle).
 * [NegaOctet](https://negaoctet.org/), projet de Recherche et Développement lauréat de l’appel à projet PERFECTO 2018 de l'Ademe. Création d’outils permettant la réalisation d’Analyse du Cycle de Vie conforme ISO 14040 sur l’ensemble du périmètre Terminaux – Réseau – Datacenter. Coporté par Julie Orgelet (DDemain), Frédéric Bordage (greenit.fr), Caroline Vateau (Neutreo - APL Datacenter) et Bureau Veritas.
 * [Point de MIR](http://www.point-de-mir.com/), maison de l'informatique responsable fondée par Bela Loto et Céline Ferre
+* [Pôle Eco-conception](https://www.eco-conception.fr/static/eco-conception-de-service-numerique.html), association dont une des missions est sur le sujet du numérique.
 * [Rcube](https://rcube.org/), Fédération du Réemploi et de la Réparation
 * [The Shift Project](https://theshiftproject.org/lean-ict/), projet "les impacts environnementaux du Numérique" (depuis 2018) : Hugues Ferreboeuf (directeur de projet) et Maxime Efoui-Hess (chargé de projet).
 
