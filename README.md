@@ -11,7 +11,7 @@
 ## Réglementaires
 
 * [Loi du 10 février 2020 relative à la lutte contre le gaspillage et à l'économie circulaire](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000041553759/) notamment les articles 13, 27, 55 et 58.
-* [Circulaire Engagements de l’État pour des services publics écoresponsables](https://www.legifrance.gouv.fr/download/pdf/circ?id=44936) notamment la mesure 8 («  afin de réduire les déplacements, l’État met à disposition de l’ensemble de ses agents une solution de visio-conférence ») et la mesure 20 (« l’État développe d’ici juillet 2020 une stratégie de réduction de l’empreinte carbone du numérique public, qui comprendra notamment une démarche de sensibilisation des agents aux écogestes numériques et l’achat de matériel ou de consommable reconditionné »).
+* [Circulaire du 25 février 2020 relative aux engagements de l’État pour des services publics écoresponsables](https://www.legifrance.gouv.fr/download/pdf/circ?id=44936) notamment la mesure 8 («  afin de réduire les déplacements, l’État met à disposition de l’ensemble de ses agents une solution de visio-conférence ») et la mesure 20 (« l’État développe d’ici juillet 2020 une stratégie de réduction de l’empreinte carbone du numérique public, qui comprendra notamment une démarche de sensibilisation des agents aux écogestes numériques et l’achat de matériel ou de consommable reconditionné »).
 
 ## Ecosystème
 
