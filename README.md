@@ -1,5 +1,14 @@
 # Numérique éco-responsable
 
+## Constats
+
+* [Empreinte environnementale du numérique mondial par greenit.fr](https://www.greenit.fr/wp-content/uploads/2019/10/2019-10-GREENIT-etude_EENM-rapport-accessible.VF_.pdf) (pdf)
+* [Pour une sobriété numérique par le Shift Project](https://theshiftproject.org/article/pour-une-sobriete-numerique-rapport-shift/)
+
+## Réglementaires
+
+* [Loi du 10 février 2020 relative à la lutte contre le gaspillage et à l'économie circulaire](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000041553759/) notamment les articles 13, 27, 55 et 58.
+
 ## Ecosystème
 
 Communautés, think tanks et acteurs privés
@@ -14,11 +23,7 @@ Communautés, think tanks et acteurs privés
 * [Institut Numérique Responsable](https://institutnr.org/)
 * [Point de MIR](http://www.point-de-mir.com/), maison de l'informatique responsable fondée par Bela Loto et Céline Ferre
 * [The Shift Project](https://theshiftproject.org/lean-ict/), projet "les impacts environnementaux du Numérique" (depuis 2018) : Hugues Ferreboeuf (directeur de projet) et Maxime Efoui-Hess (chargé de projet).
-
-## Constats
-
-* [Empreinte environnementale du numérique mondial par greenit.fr](https://www.greenit.fr/wp-content/uploads/2019/10/2019-10-GREENIT-etude_EENM-rapport-accessible.VF_.pdf) (pdf)
-* [Pour une sobriété numérique par le Shift Project](https://theshiftproject.org/article/pour-une-sobriete-numerique-rapport-shift/)
+* [NegaOctet](https://negaoctet.org/), projet de Recherche et Développement lauréat de l’appel à projet PERFECTO 2018 de l'Ademe. Création d’outils permettant la réalisation d’Analyse du Cycle de Vie conforme ISO 14040 sur l’ensemble du périmètre Terminaux – Réseau – Datacenter. Coporté par Julie Orgelet (DDemain), Frédéric Bordage (greenit.fr), Caroline Vateau (Neutreo - APL Datacenter) et Bureau Veritas.
 
 ## Ressources
 
