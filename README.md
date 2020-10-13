@@ -20,9 +20,11 @@
 
 * [Alliance Green IT](http://alliancegreenit.org)
 * [Collectif conception numérique responsable](https://collectif.greenit.fr/)
+* [Commown](https://commown.coop/) : location de Fairphone, PC et casques audio.
 * [DDemain](https://ddemain.com/) créé par Julie Orgelet, formatrice et consultante en analyse de cycle de vie.
 * [EcoInfo](https://ecoinfo.cnrs.fr/), « pour une informatique éco-responsable », groupement de services du CNRS.
 * Éco-organismes agréés par l'Etat pour la collecte et le traitement des [DEEE](https://www.ecologie.gouv.fr/dechets-dequipements-electriques-et-electroniques) (Déchets d’équipements électriques et électroniques) notamment ceux du numérique : [Ecologic](https://www.ecologic-france.com/), [Ecosystem](https://www.eco-systemes.fr) et OCAD3E (éco-organisme coordonnateur).
+* [Fairphone](https://www.fairphone.com/fr/), smartphone éthique et réparable.
 * [Green code lab](https://www.greencodelab.org/)
 * [GreenIT.fr](https://www.greenit.fr/), créé par Frédéric Bordage, communauté des acteurs du numérique responsable qui s’intéressent à la sobriété numérique, à l’écoconception des services numériques, à la lowtech, et plus globalement à un avenir numérique alternatif (depuis 2004)
 * [Greenspector](https://greenspector.com/), outil de mesure de l’empreinte environnementale des applications.
@@ -30,6 +32,7 @@
 * [Halte à l'obsolescence programmée](https://www.halteobsolescence.org/)
 * [Institut Numérique Responsable](https://institutnr.org/)
 * [Point de MIR](http://www.point-de-mir.com/), maison de l'informatique responsable fondée par Bela Loto et Céline Ferre
+* [Rcube](https://rcube.org/), Fédération du Réemploi et de la Réparation
 * [The Shift Project](https://theshiftproject.org/lean-ict/), projet "les impacts environnementaux du Numérique" (depuis 2018) : Hugues Ferreboeuf (directeur de projet) et Maxime Efoui-Hess (chargé de projet).
 * [NegaOctet](https://negaoctet.org/), projet de Recherche et Développement lauréat de l’appel à projet PERFECTO 2018 de l'Ademe. Création d’outils permettant la réalisation d’Analyse du Cycle de Vie conforme ISO 14040 sur l’ensemble du périmètre Terminaux – Réseau – Datacenter. Coporté par Julie Orgelet (DDemain), Frédéric Bordage (greenit.fr), Caroline Vateau (Neutreo - APL Datacenter) et Bureau Veritas.
 
