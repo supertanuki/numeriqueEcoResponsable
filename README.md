@@ -1,11 +1,12 @@
 # Numérique éco-responsable
 
-## Constats
+## Etudes
 
 * [Empreinte environnementale du numérique mondial](https://www.greenit.fr/wp-content/uploads/2019/10/2019-10-GREENIT-etude_EENM-rapport-accessible.VF_.pdf), greenit.fr, octobre 2019.
 * [Pour une sobriété numérique](https://theshiftproject.org/article/pour-une-sobriete-numerique-rapport-shift/), Shift Project, octobre 2018.
 * [Climat : l’insoutenable usage de la vidéo en ligne](https://theshiftproject.org/article/climat-insoutenable-usage-video/), Shift Project, juillet 2019.
 * [Déployer la sobriété numérique](https://theshiftproject.org/wp-content/uploads/2020/01/2020-01-16_Rapport-interm%C3%A9diaire_D%C3%A9ployer-la-sobri%C3%A9t%C3%A9-num%C3%A9rique_v5.pdf), Shift Project, janvier 2020.
+* [Caractérisation des effets rebond induits par le télétravail](https://www.ademe.fr/caracterisation-effets-rebond-induits-teletravail), ADEME, 2020 : notamment un chapitre sur l'impact de la visioconférence.
 
 ## Réglementaires
 
@@ -14,14 +15,13 @@
 
 ## Ecosystème
 
-Communautés, think tanks et acteurs privés
-
 * [Alliance Green IT](http://alliancegreenit.org)
 * [Collectif conception numérique responsable](https://collectif.greenit.fr/)
 * [DDemain](https://ddemain.com/) créé par Julie Orgelet, formatrice et consultante en analyse de cycle de vie.
 * [EcoInfo](https://ecoinfo.cnrs.fr/), « pour une informatique éco-responsable », groupement de services du CNRS.
 * [Green code lab](https://www.greencodelab.org/)
 * [GreenIT.fr](https://www.greenit.fr/), créé par Frédéric Bordage, communauté des acteurs du numérique responsable qui s’intéressent à la sobriété numérique, à l’écoconception des services numériques, à la lowtech, et plus globalement à un avenir numérique alternatif (depuis 2004)
+* [Greenspector](https://greenspector.com/), outil de mesure de l’empreinte environnementale des applications.
 * [Fing](https://fing.org/), pour un numérique porteur d’avenir et centré sur les capacités humaines.
 * [Institut Numérique Responsable](https://institutnr.org/)
 * [Point de MIR](http://www.point-de-mir.com/), maison de l'informatique responsable fondée par Bela Loto et Céline Ferre
