@@ -8,6 +8,7 @@
 * [Déployer la sobriété numérique](https://theshiftproject.org/wp-content/uploads/2020/01/2020-01-16_Rapport-interm%C3%A9diaire_D%C3%A9ployer-la-sobri%C3%A9t%C3%A9-num%C3%A9rique_v5.pdf), Shift Project, janvier 2020.
 * [Caractérisation des effets rebond induits par le télétravail](https://www.ademe.fr/caracterisation-effets-rebond-induits-teletravail), ADEME, 2020 : notamment un chapitre sur l'impact de la visioconférence.
 * [La consommation de métaux du numérique : un secteur loin d’être dématérialisé](https://www.strategie.gouv.fr/publications/consommation-de-metaux-numerique-un-secteur-loin-detre-dematerialise), France Stratégie, 2020.
+* [Feuille de route sur l'environnement et le numérique](https://cnnumerique.fr/files/uploads/2020/CNNum%20-%20Feuille%20de%20route%20environnement%20%26%20numerique.pdf), Conseil National du Numérique, 2020.
 
 ## Réglementaires
 
@@ -20,6 +21,7 @@
 * [Collectif conception numérique responsable](https://collectif.greenit.fr/)
 * [DDemain](https://ddemain.com/) créé par Julie Orgelet, formatrice et consultante en analyse de cycle de vie.
 * [EcoInfo](https://ecoinfo.cnrs.fr/), « pour une informatique éco-responsable », groupement de services du CNRS.
+* Éco-organismes agréés par l'Etat pour la collecte et le traitement des [DEEE](https://www.ecologie.gouv.fr/dechets-dequipements-electriques-et-electroniques) (Déchets d’équipements électriques et électroniques) notamment ceux du numérique : [Ecologic](https://www.ecologic-france.com/), [Ecosystem](https://www.eco-systemes.fr) et OCAD3E (éco-organisme coordonnateur).
 * [Green code lab](https://www.greencodelab.org/)
 * [GreenIT.fr](https://www.greenit.fr/), créé par Frédéric Bordage, communauté des acteurs du numérique responsable qui s’intéressent à la sobriété numérique, à l’écoconception des services numériques, à la lowtech, et plus globalement à un avenir numérique alternatif (depuis 2004)
 * [Greenspector](https://greenspector.com/), outil de mesure de l’empreinte environnementale des applications.
@@ -29,6 +31,7 @@
 * [Point de MIR](http://www.point-de-mir.com/), maison de l'informatique responsable fondée par Bela Loto et Céline Ferre
 * [The Shift Project](https://theshiftproject.org/lean-ict/), projet "les impacts environnementaux du Numérique" (depuis 2018) : Hugues Ferreboeuf (directeur de projet) et Maxime Efoui-Hess (chargé de projet).
 * [NegaOctet](https://negaoctet.org/), projet de Recherche et Développement lauréat de l’appel à projet PERFECTO 2018 de l'Ademe. Création d’outils permettant la réalisation d’Analyse du Cycle de Vie conforme ISO 14040 sur l’ensemble du périmètre Terminaux – Réseau – Datacenter. Coporté par Julie Orgelet (DDemain), Frédéric Bordage (greenit.fr), Caroline Vateau (Neutreo - APL Datacenter) et Bureau Veritas.
+
 
 ## Ressources
 
