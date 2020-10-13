@@ -2,8 +2,10 @@
 
 ## Constats
 
-* [Empreinte environnementale du numérique mondial par greenit.fr](https://www.greenit.fr/wp-content/uploads/2019/10/2019-10-GREENIT-etude_EENM-rapport-accessible.VF_.pdf) (pdf)
-* [Pour une sobriété numérique par le Shift Project](https://theshiftproject.org/article/pour-une-sobriete-numerique-rapport-shift/)
+* [Empreinte environnementale du numérique mondial](https://www.greenit.fr/wp-content/uploads/2019/10/2019-10-GREENIT-etude_EENM-rapport-accessible.VF_.pdf), greenit.fr, octobre 2019.
+* [Pour une sobriété numérique](https://theshiftproject.org/article/pour-une-sobriete-numerique-rapport-shift/), Shift Project, octobre 2018.
+* [Climat : l’insoutenable usage de la vidéo en ligne](https://theshiftproject.org/article/climat-insoutenable-usage-video/), Shift Project, juillet 2019.
+* [Déployer la sobriété numérique](https://theshiftproject.org/wp-content/uploads/2020/01/2020-01-16_Rapport-interm%C3%A9diaire_D%C3%A9ployer-la-sobri%C3%A9t%C3%A9-num%C3%A9rique_v5.pdf), Shift Project, janvier 2020.
 
 ## Réglementaires
 
@@ -34,6 +36,8 @@ Communautés, think tanks et acteurs privés
 * « [Référentiel de connaissances pour un numérique éco-responsable](https://hal.archives-ouvertes.fr/hal-02954188/document) », Pierre Boulet, S Bouveret, A Bugeau, E Frenoux, Julien Lefevre, et al..Travaux universitaires EcoInfo. 2020.
 * « [La controverse de la 5G](https://gauthierroussilhe.com/fr/projects/controverse-de-la-5g) », Gauthier Roussilhe, 2020.
 * [Guide de conversion numérique au low tech](http://gauthierroussilhe.com/fr/posts/convert-low-tech), Gauthier Roussilhe, 2019.
+* [Notes issues du livre : « Analyse du cycle de vie : comprendre et réaliser un éco bilan »](http://raphael-lemaire.com/2020/03/26/acv-livre/), Raphaël Lemaire, 2020.
+* [Mise en perspective des impacts écologiques du numérique](http://raphael-lemaire.com/2019/11/02/mise-en-perspective-impacts-numerique/), Raphaël Lemaire, 2019.
 
 ## Conception
 
@@ -52,7 +56,9 @@ Communautés, think tanks et acteurs privés
 ## Formation et certification
 
 * [Openclassrooms - Appliquez les principes du Green IT dans votre entreprise](https://openclassrooms.com/fr/courses/6227476-appliquez-les-principes-du-green-it-dans-votre-entreprise)
-* [Certification GreenIT](https://www.greenit.fr/formations/)
+* [Formations certifiantes par GreenIT](https://www.greenit.fr/formations/)
+* [MOOC Sensibilisation au numérique responsable](https://www.academie-nr.org/sensibilisation/#/) (gratuit)
+* [MOOC Numérique Responsable](https://www.academie-nr.org/#mooc-nr) (gratuit)
 
 ## Outils de Mesures
 
