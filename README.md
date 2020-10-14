@@ -23,6 +23,7 @@ Cette page a pour modeste ambition de lister les ressources et l'écosystème su
 
 ## Ecosystème
 
+* [ADEME](http://alliancegreenit.org), l'agence de la transition écologique qui publie de nombreux rapports sur les impacts environnementaux du numérique et finance / subventionne des projets liés à ce sujet (Perfecto, AMI Low-Tech...).
 * [Alliance Green IT](http://alliancegreenit.org)
 * [Collectif conception numérique responsable](https://collectif.greenit.fr/)
 * [Commown](https://commown.coop/) : location de Fairphone, PC et casques audio.
@@ -90,6 +91,10 @@ Cette page a pour modeste ambition de lister les ressources et l'écosystème su
 * [Mobile Efficiency Index](https://mobile-efficiency-index.com/)
 * [Axe Developer Tools](https://addons.mozilla.org/fr/firefox/addon/axe-devtools/), accessibility auditing to the Firefox Developer Tools
 * [Carbonalyser](https://theshiftproject.org/carbonalyser-extension-navigateur/)
+
+## Financements
+
+* Perfecto 2021 de l'ADEME. Deux axes thématiques pour cette édition : étude de faisabilité en écoconception et Ecoconception numérique. [Webinaire de présentation le 23/10/2020](https://register.gotowebinar.com/register/950584287478439180).
 
 ## Challenges
 
