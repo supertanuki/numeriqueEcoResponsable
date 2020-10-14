@@ -40,6 +40,7 @@ Cette page a pour modeste ambition de lister les ressources et l'écosystème su
 * [Point de MIR](http://www.point-de-mir.com/), maison de l'informatique responsable fondée par Bela Loto et Céline Ferre
 * [Pôle Eco-conception](https://www.eco-conception.fr/static/eco-conception-de-service-numerique.html), association dont une des missions est sur le sujet du numérique.
 * [Rcube](https://rcube.org/), Fédération du Réemploi et de la Réparation, association fondée par Benoit Varin, également directeur du Développement Durable de Recommerce.
+* [RepairCafe](https://repaircafe.org/fr), référentiel des repair café en france et dans le monde.
 * [The Shift Project](https://theshiftproject.org/lean-ict/), projet "les impacts environnementaux du Numérique" (depuis 2018) : avec entre autres Hugues Ferreboeuf (directeur de projet) et Maxime Efoui-Hess (chargé de projet).
 
 ### Acteurs privés
