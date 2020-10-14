@@ -23,7 +23,7 @@ Cette page a pour modeste ambition de lister les ressources et l'écosystème su
 
 ## Ecosystème
 
-* [ADEME](http://alliancegreenit.org), l'agence de la transition écologique qui publie de nombreux rapports sur les impacts environnementaux du numérique et finance / subventionne des projets liés à ce sujet (Perfecto, AMI Low-Tech...).
+* [ADEME](http://alliancegreenit.org), l'agence de la transition écologique qui publie de [nombreuses études](https://www.ademe.fr/mediatheque/recherche?query=num%C3%A9rique) sur les impacts environnementaux du numérique et finance / subventionne des projets liés à ce sujet (Perfecto, AMI Low-Tech...).
 * [Alliance Green IT](http://alliancegreenit.org)
 * [Collectif conception numérique responsable](https://collectif.greenit.fr/)
 * [Commown](https://commown.coop/) : location de Fairphone, PC et casques audio.
