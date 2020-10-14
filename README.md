@@ -30,10 +30,10 @@ Cette page a pour modeste ambition de lister les ressources et l'écosystème su
 * [Collectif conception numérique responsable](https://collectif.greenit.fr/) : avec entre autres Frédéric Bordage, Romuald Priol...
 * [EcoInfo](https://ecoinfo.cnrs.fr/), « pour une informatique éco-responsable », groupement de services du CNRS. Avec entre autres Françoise Berthoud.
 * Éco-organismes agréés par l'Etat pour la collecte et le traitement des [DEEE](https://www.ecologie.gouv.fr/dechets-dequipements-electriques-et-electroniques) (Déchets d’équipements électriques et électroniques) notamment ceux du numérique : [Ecologic](https://www.ecologic-france.com/), [Ecosystem](https://www.eco-systemes.fr) et OCAD3E (éco-organisme coordonnateur).
-* [La Fresque du Numérique](https://www.fresquedunumerique.org/) proposée par Aurélien Déragne et Yvain Mouneu.
 * [Green code lab](https://www.greencodelab.org/)
 * [GreenIT.fr](https://www.greenit.fr/), créé par Frédéric Bordage, communauté des acteurs du numérique responsable qui s’intéressent à la sobriété numérique, à l’écoconception des services numériques, à la lowtech, et plus globalement à un avenir numérique alternatif (depuis 2004)
 * [Fing](https://fing.org/), pour un numérique porteur d’avenir et centré sur les capacités humaines.
+* [Fresque du Numérique](https://www.fresquedunumerique.org/) proposée par Aurélien Déragne et Yvain Mouneu.
 * [Halte à l'obsolescence programmée](https://www.halteobsolescence.org/) : avec entre autres Laeticia Vasseur, Adèle Chasson, Samuel Sauvage.
 * [Institut Numérique Responsable](https://institutnr.org/), entre autres Jean-Christophe Chaussat (Pôle-Emploi) et Vincent Courboulay (Université de la Rochelle).
 * [NegaOctet](https://negaoctet.org/), projet de Recherche et Développement lauréat de l’appel à projet PERFECTO 2018 de l'Ademe. Création d’outils permettant la réalisation d’Analyse du Cycle de Vie conforme ISO 14040 sur l’ensemble du périmètre Terminaux – Réseau – Datacenter. Coporté par Julie Orgelet (DDemain), Frédéric Bordage (greenit.fr), Caroline Vateau (Neutreo - APL Datacenter) et Bureau Veritas.
