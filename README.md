@@ -57,7 +57,6 @@ Cette page a pour modeste ambition de lister les ressources et l'écosystème su
 * [Numérique au bureau](https://particuliers.ademe.fr/au-bureau/numerique), Ademe
 * [Impact spatial et énergétique des data centers sur les territoires](https://www.ademe.fr/impact-spatial-energetique-data-centers-territoires-l), Ademe, 2019
 * [La face cachée du numérique](https://www.ademe.fr/sites/default/files/assets/documents/guide-pratique-face-cachee-numerique.pdf), Ademe, 2019
-* « [Référentiel de connaissances pour un numérique éco-responsable](https://hal.archives-ouvertes.fr/hal-02954188/document) », Pierre Boulet, S Bouveret, A Bugeau, E Frenoux, Julien Lefevre, et al..Travaux universitaires EcoInfo. 2020.
 * « [La controverse de la 5G](https://gauthierroussilhe.com/fr/projects/controverse-de-la-5g) », Gauthier Roussilhe, 2020.
 * [Guide de conversion numérique au low tech](http://gauthierroussilhe.com/fr/posts/convert-low-tech), Gauthier Roussilhe, 2019.
 * [Notes issues du livre : « Analyse du cycle de vie : comprendre et réaliser un éco bilan »](http://raphael-lemaire.com/2020/03/26/acv-livre/), Raphaël Lemaire, 2020.
@@ -111,3 +110,10 @@ Cette page a pour modeste ambition de lister les ressources et l'écosystème su
 
 * [ApiDays - Sustainable Digital Challenge](https://www.apidays.co/sustainable-digital-challenge/)
 * [Design4Green](https://design4green.org/)
+
+## Autres référentiels
+
+* « [Référentiel de connaissances pour un numérique éco-responsable](https://hal.archives-ouvertes.fr/hal-02954188/document) », Pierre Boulet, S Bouveret, A Bugeau, E Frenoux, Julien Lefevre, et al..Travaux universitaires EcoInfo. 2020.
+* [Awesome Green IT](https://github.com/alvessteve/awesome-green-it)
+* [Awesome Numérique Responsable](https://github.com/cyrildotcc/awesome-numerique-responsable)
+* [Bookmarks Green IT](https://github.com/rlemaire/bookmarks-green-it)
