@@ -106,6 +106,7 @@ Cette page a pour modeste ambition de lister les ressources et l'écosystème su
 ## Financements
 
 * Perfecto 2021 de l'ADEME. Deux axes thématiques pour cette édition : étude de faisabilité en écoconception et Ecoconception numérique. [Webinaire de présentation le 23/10/2020](https://register.gotowebinar.com/register/950584287478439180).
+* [Appel à manifestation Greentech Innovation](https://greentechverte.fr/2020/10/02/test/) dont un volet sur le numérique durable.
 
 ## Challenges
 
