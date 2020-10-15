@@ -50,7 +50,7 @@ Cette page a pour modeste ambition de lister les ressources et l'écosystème su
 * [Fairphone](https://www.fairphone.com/fr/), smartphone éthique et réparable.
 * [Frédéric Bordage de GreenIT.fr](https://www.greenit.fr/), consultant et formateur numérique responsable et éco-conception de services numériques.
 * [Greenspector](https://greenspector.com/), outil de mesure de l’empreinte environnementale des applications.
-* [Greenet.io](https://www.greenet.io/), application de mesure et réduciton de l’empreinte carbone de votre navigation web.
+* [Greenet.io](https://www.greenet.io/), application de mesure et réduction de l’empreinte carbone de votre navigation web.
 
 ## Ressources
 
