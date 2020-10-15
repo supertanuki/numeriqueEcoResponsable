@@ -63,6 +63,7 @@ Cette page a pour modeste ambition de lister les ressources et l'écosystème su
 * [Notes issues du livre : « Analyse du cycle de vie : comprendre et réaliser un éco bilan »](http://raphael-lemaire.com/2020/03/26/acv-livre/), Raphaël Lemaire, 2020.
 * [Mise en perspective des impacts écologiques du numérique](http://raphael-lemaire.com/2019/11/02/mise-en-perspective-impacts-numerique/), Raphaël Lemaire, 2019.
 * [Lowtus](https://lowtus.fr/), audits qualité de sites web
+* [Techologie](https://techologie.net/), le podcast qui tente de lier tech et écologie alors que tout les oppose.
 
 ## Conception
 
