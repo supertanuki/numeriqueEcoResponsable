@@ -118,4 +118,5 @@ Cette page a pour modeste ambition de lister les ressources et l'écosystème su
 * « [Référentiel de connaissances pour un numérique éco-responsable](https://hal.archives-ouvertes.fr/hal-02954188/document) », Pierre Boulet, S Bouveret, A Bugeau, E Frenoux, Julien Lefevre, et al..Travaux universitaires EcoInfo. 2020.
 * [Awesome Green IT](https://github.com/alvessteve/awesome-green-it)
 * [Awesome Numérique Responsable](https://github.com/cyrildotcc/awesome-numerique-responsable)
+* [Awesome Energy](https://github.com/bpetit/awesome-energy.git)
 * [Bookmarks Green IT](https://github.com/rlemaire/bookmarks-green-it)
