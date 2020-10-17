@@ -9,9 +9,9 @@ Cette page a pour modeste ambition de lister les ressources et l'écosystème su
 * [Empreinte environnementale du numérique mondial](https://www.greenit.fr/wp-content/uploads/2019/10/2019-10-GREENIT-etude_EENM-rapport-accessible.VF_.pdf), greenit.fr, octobre 2019.
 * [Pour une sobriété numérique](https://theshiftproject.org/article/pour-une-sobriete-numerique-rapport-shift/), Shift Project, octobre 2018.
 * [Climat : l’insoutenable usage de la vidéo en ligne](https://theshiftproject.org/article/climat-insoutenable-usage-video/), Shift Project, juillet 2019.
-* [Déployer la sobriété numérique](https://theshiftproject.org/wp-content/uploads/2020/01/2020-01-16_Rapport-interm%C3%A9diaire_D%C3%A9ployer-la-sobri%C3%A9t%C3%A9-num%C3%A9rique_v5.pdf), Shift Project, janvier 2020.
+* [Déployer la sobriété numérique](https://theshiftproject.org/article/deployer-la-sobriete-numerique-rapport-shift/), Shift Project, octobre 2020.
 * [Caractérisation des effets rebond induits par le télétravail](https://www.ademe.fr/caracterisation-effets-rebond-induits-teletravail), ADEME, 2020 : notamment un chapitre sur l'impact de la visioconférence.
-* [La consommation de métaux du numérique : un secteur loin d’être dématérialisé](https://www.strategie.gouv.fr/publications/consommation-de-metaux-numerique-un-secteur-loin-detre-dematerialise), France Stratégie, 2020.
+* [La consommation de métaux du numérique : un secteur loin d’être dématérialisé](https://www.strategie.gouv.fr/publications/consommation-de-mentaux-numerique-un-secteur-loin-detre-dematerialise), France Stratégie, 2020.
 * [Feuille de route sur l'environnement et le numérique](https://cnnumerique.fr/files/uploads/2020/CNNum%20-%20Feuille%20de%20route%20environnement%20%26%20numerique.pdf), Conseil National du Numérique, 2020.
 * [Pour une transition numérique écologique](http://www.senat.fr/rap/r19-555/r19-555_mono.html), rapport du Sénat, 2020.
 
