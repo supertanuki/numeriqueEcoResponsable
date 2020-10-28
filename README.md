@@ -55,6 +55,8 @@ Cette page a pour modeste ambition de lister les ressources et l'écosystème su
 
 ## Ressources
 
+### Gratuites
+
 * [Numérique au bureau](https://particuliers.ademe.fr/au-bureau/numerique), Ademe
 * [Impact spatial et énergétique des data centers sur les territoires](https://www.ademe.fr/impact-spatial-energetique-data-centers-territoires-l), Ademe, 2019
 * [La face cachée du numérique](https://www.ademe.fr/sites/default/files/assets/documents/guide-pratique-face-cachee-numerique.pdf), Ademe, 2019
@@ -64,6 +66,11 @@ Cette page a pour modeste ambition de lister les ressources et l'écosystème su
 * [Mise en perspective des impacts écologiques du numérique](http://raphael-lemaire.com/2019/11/02/mise-en-perspective-impacts-numerique/), Raphaël Lemaire, 2019.
 * [Lowtus](https://lowtus.fr/), audits qualité de sites web
 * [Techologie](https://techologie.net/), le podcast qui tente de lier tech et écologie alors que tout les oppose.
+
+### Payantes
+
+* [Ecoconception web : les 115 bonnes pratiques - Doper son site et réduire son empreinte écologique](https://www.eyrolles.com/Informatique/Livre/ecoconception-web-les-115-bonnes-pratiques-9782212678062/), 115 fiches de bonnes pratiques pour réaliser son site internet et participer à la préservation des ressources de la planète
+* [Kaizen - Numéro Spécial : NUMERIQUE RESPONSABLE](https://boutique.kaizen-magazine.com/hors-serie/645-numero-special-numerique-responsable.html), Explorer les problèmes et les solutions engendrés par le numérique, Kaizen, 2020
 
 ## Conception
 
