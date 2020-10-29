@@ -93,7 +93,7 @@ Cette page a pour modeste ambition de lister les ressources et l'écosystème su
 * [MOOC Sensibilisation au numérique responsable](https://www.academie-nr.org/sensibilisation/#/) (gratuit)
 * [MOOC Numérique Responsable](https://www.academie-nr.org/#mooc-nr) (gratuit)
 
-## Outils de Mesures
+## Outils
 
 * Panel Audit de Chrome
 * [web.dev](https://web.dev/)
@@ -109,6 +109,7 @@ Cette page a pour modeste ambition de lister les ressources et l'écosystème su
 * [Carbonalyser](https://theshiftproject.org/carbonalyser-extension-navigateur/)
 * [Greenet.io](https://www.greenet.io/)
 * [Argos](https://github.com/marmelab/argos), docker monitoring experiment
+* [Low web extension](https://github.com/lowwebtech/low-web-extension), webextension that reduces data and carbon footprint of your internet browsing.
 
 ## Financements
 
