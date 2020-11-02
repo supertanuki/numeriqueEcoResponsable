@@ -104,11 +104,9 @@ Cette page a pour modeste ambition de lister les ressources et l'écosystème su
 * [GTmetrix](https://gtmetrix.com/)
 * [websitecarbon.com](https://www.websitecarbon.com/)
 * [Web energy archive](https://wea.greencodelab.org/fr/)
-* [Greenspector](https://greenspector.com)
 * [Mobile Efficiency Index](https://mobile-efficiency-index.com/)
 * [Axe Developer Tools](https://addons.mozilla.org/fr/firefox/addon/axe-devtools/), accessibility auditing to the Firefox Developer Tools
 * [Carbonalyser](https://theshiftproject.org/carbonalyser-extension-navigateur/)
-* [Greenet.io](https://www.greenet.io/)
 * [Argos](https://github.com/marmelab/argos), docker monitoring experiment
 * [Low web extension](https://github.com/lowwebtech/low-web-extension), webextension that reduces data and carbon footprint of your internet browsing.
 
