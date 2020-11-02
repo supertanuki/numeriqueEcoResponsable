@@ -58,6 +58,7 @@ Cette page a pour modeste ambition de lister les ressources et l'écosystème su
 
 ### Gratuites
 
+* [Charte Numérique Responsable](https://charte.institutnr.org/)
 * [Numérique au bureau](https://particuliers.ademe.fr/au-bureau/numerique), Ademe
 * [Impact spatial et énergétique des data centers sur les territoires](https://www.ademe.fr/impact-spatial-energetique-data-centers-territoires-l), Ademe, 2019
 * [La face cachée du numérique](https://www.ademe.fr/sites/default/files/assets/documents/guide-pratique-face-cachee-numerique.pdf), Ademe, 2019
