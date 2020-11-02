@@ -99,6 +99,8 @@ Cette page a pour modeste ambition de lister les ressources et l'écosystème su
 * Panel Audit de Chrome
 * [web.dev](https://web.dev/)
 * [ecoIndex](http://www.ecoindex.fr)
+* [Calcul impact environnemental pro](https://institutnr.org/calculatrice/impact-environnemental-numerique-inr.html)
+* [EcoDiag](https://ecoinfo.cnrs.fr/ecodiag/)
 * [Pingdom](https://tools.pingdom.com/)
 * [ecometer](http://www.ecometer.org/)
 * [GTmetrix](https://gtmetrix.com/)
