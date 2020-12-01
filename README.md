@@ -76,6 +76,7 @@ Cette page a pour modeste ambition de lister les ressources et l'écosystème su
 * [Lowtus](https://lowtus.fr/), audits qualité de sites web
 * [Techologie](https://techologie.net/), le podcast qui tente de lier tech et écologie alors que tout les oppose.
 * Developpers Can Save The World [Part I: The Problem](https://marmelab.com/blog/2020/09/21/web-developer-climate-change.html), [Part II: The Solution](https://marmelab.com/blog/2020/09/22/developers-save-the-planet-the-solution.html), François Zaninotto, 2020
+* [ICT Sector Guidance built on the GHG Protocol Product Life Cycle Accounting and Reporting Standard](https://ghgprotocol.org/sites/default/files/GHGP-ICTSG%20-%20ALL%20Chapters.pdf), Global e-Gustainability Initiative & Carno Trust, 2017
 
 ### Payantes
 
