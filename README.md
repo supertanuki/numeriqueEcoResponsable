@@ -124,6 +124,7 @@ Cette page a pour modeste ambition de lister les ressources et l'écosystème su
 * [Argos](https://github.com/marmelab/argos), docker monitoring experiment
 * [Low web extension](https://github.com/lowwebtech/low-web-extension), webextension that reduces data and carbon footprint of your internet browsing.
 * [Futureco – L'impact climat des gestes quotidiens](https://futur.eco/) dont une catégorie sur le numérique.
+* [CodeCarbon](https://github.com/mlco2/codecarbon), un package python pour mesurer la consommation énergétique d'un algorithme.
 
 ## Financements
 
