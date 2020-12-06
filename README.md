@@ -30,6 +30,8 @@ Cette page a pour modeste ambition de lister les ressources et l'écosystème su
    * Rendre obligatoire la réalisation d’une évaluation des coûts et des avantages relatifs à la valorisation de la chaleur fatale pour chaque centre de stockage de données.
 * Résolution du Parlement européen du 25 novembre 2020 [Vers un marché unique plus durable pour les entreprises et les consommateurs](https://www.europarl.europa.eu/doceo/document/TA-9-2020-0318_FR.html)
 
+Résumé des aspects réglementaires dans cet article : [Impact environnemental du numérique : quelles régulations ?](https://www.24joursdeweb.fr/2020/impact-environnemental-du-numerique-quelles-regulations/), décembre 2020.
+
 ## Ecosystème
 
 ### Institutionnels, think tanks, associations et communautés
