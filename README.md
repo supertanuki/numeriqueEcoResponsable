@@ -108,6 +108,8 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 * [Formations certifiantes par GreenIT](https://www.greenit.fr/formations/)
 * [MOOC Sensibilisation au numérique responsable](https://www.academie-nr.org/sensibilisation/#/) (gratuit)
 * [MOOC Numérique Responsable](https://www.academie-nr.org/#mooc-nr) (gratuit)
+* [Formations à l'Analyse du cycle de vie de service numérique](https://ddemain.com/) proposées par DDemain
+* [Ateliers et formations de sensibilisation](http://www.point-de-mir.com/ateliers-et-formations) proposés par Point de M.I.R
 
 ## Outils
 
