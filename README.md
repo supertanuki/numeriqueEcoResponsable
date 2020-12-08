@@ -82,6 +82,7 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 * Developpers Can Save The World [Part I: The Problem](https://marmelab.com/blog/2020/09/21/web-developer-climate-change.html), [Part II: The Solution](https://marmelab.com/blog/2020/09/22/developers-save-the-planet-the-solution.html), François Zaninotto, 2020
 * [ICT Sector Guidance built on the GHG Protocol Product Life Cycle Accounting and Reporting Standard](https://ghgprotocol.org/sites/default/files/GHGP-ICTSG%20-%20ALL%20Chapters.pdf), Global e-Gustainability Initiative & Carno Trust, 2017
 * Infographies de Ecosystem, un éco-organisme de collecte des déchets notamment des DEEE : [process de recyclage dont les équipements numériques](https://www.ecosystem.eco/fr/article/process-recyclage) et [le réemploi des mobiles](https://telephone-portable.ecosystem.eco/).
+* [Arkadin réduit de 20 % l’impact environnemental de sa solution de webconférence](https://www.apl-datacenter.com/fr/references/arkadin-reduit-de-20-limpact-environnemental-de-sa-solution-de-webconference-grace-a-neutreo-by-apl/)
 
 ### Payantes
 
@@ -102,7 +103,7 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 * [Norme ISO 14062](https://www.iso.org/fr/standard/33020.html) : Management environnemental - Intégration des aspects environnementaux dans la conception et le développement de produit.
 * [Label Numérique Responsable](https://label-nr.fr/) à destination des organisations.
 
-## Formation et certification
+## Sensibilisation, formation et certification
 
 * [Openclassrooms - Appliquez les principes du Green IT dans votre entreprise](https://openclassrooms.com/fr/courses/6227476-appliquez-les-principes-du-green-it-dans-votre-entreprise)
 * [Formations certifiantes par GreenIT](https://www.greenit.fr/formations/)
@@ -110,6 +111,7 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 * [MOOC Numérique Responsable](https://www.academie-nr.org/#mooc-nr) (gratuit)
 * [Formations à l'Analyse du cycle de vie de service numérique](https://ddemain.com/) proposées par DDemain
 * [Ateliers et formations de sensibilisation](http://www.point-de-mir.com/ateliers-et-formations) proposés par Point de M.I.R
+* [Econum, le jeu pour un numérique plus responsable](https://ddemain.com/econum/jeu/), un jeu de cartes pour découvrir des écogestes numériques.
 
 ## Outils
 
