@@ -133,6 +133,7 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 * [Low web extension](https://github.com/lowwebtech/low-web-extension), webextension that reduces data and carbon footprint of your internet browsing.
 * [Futureco – L'impact climat des gestes quotidiens](https://futur.eco/) dont une catégorie sur le numérique.
 * [CodeCarbon](https://github.com/mlco2/codecarbon), un package python pour mesurer la consommation énergétique d'un algorithme.
+* [Scaphandre](https://github.com/hubblo-org/scaphandre) un outil de mesure de la consommation énergétique des serveurs et des services qu'ils hébergent
 
 ## Financements
 
