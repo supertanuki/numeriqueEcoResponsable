@@ -84,6 +84,9 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 * Infographies de Ecosystem, un éco-organisme de collecte des déchets notamment des DEEE : [process de recyclage dont les équipements numériques](https://www.ecosystem.eco/fr/article/process-recyclage) et [le réemploi des mobiles](https://telephone-portable.ecosystem.eco/).
 * [Arkadin réduit de 20 % l’impact environnemental de sa solution de webconférence](https://www.apl-datacenter.com/fr/references/arkadin-reduit-de-20-limpact-environnemental-de-sa-solution-de-webconference-grace-a-neutreo-by-apl/)
 * [Infographie : Les métaux, des ressources qui pourraient manquer ?](https://multimedia.ademe.fr/infographies/infographie-terres-rares-ademe/)
+* [IEA: Data centres and energy – from global headlines to local headaches?](https://www.iea.org/commentaries/data-centres-and-energy-from-global-headlines-to-local-headaches)
+* [Rapport de l'ADEME : Modélisation et évaluation des impacts environnementaux de produits de consommation et biens d'équipement](https://www.ademe.fr/modelisation-evaluation-impacts-environnementaux-produits-consommation-biens-dequipement)
+* [L'envert du décor : supprimer des mails pour sauver la planète, cette fausse bonne idée](https://www.huffingtonpost.fr/entry/supprimer-mails-ecologie_fr_5f8577cfc5b6e5c320039215)
 
 ### Payantes
 
