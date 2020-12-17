@@ -39,6 +39,7 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 
 * [ADEME](http://alliancegreenit.org), l'agence de la transition écologique qui publie de [nombreuses études](https://www.ademe.fr/mediatheque/recherche?query=num%C3%A9rique) sur les impacts environnementaux du numérique et finance / subventionne des projets liés à ce sujet (Perfecto, AMI Low-Tech...).
 * [Alliance Green IT](http://alliancegreenit.org) : avec entre autres Lise Boillerault, Romuald Ribault, Caroline Vateau...
+* [Clim'Foot](https://climfoot-project.eu/), a European project to calculate greenhouse gas emissions produced by companies and entities founded by programme LIFE 2014-2020.
 * [Collectif conception numérique responsable](https://collectif.greenit.fr/) : avec entre autres Frédéric Bordage, Romuald Priol...
 * [EcoInfo](https://ecoinfo.cnrs.fr/), « pour une informatique éco-responsable », groupement de services du CNRS. Avec entre autres Françoise Berthoud.
 * Éco-organismes agréés par l'Etat pour la collecte et le traitement des [DEEE](https://www.ecologie.gouv.fr/dechets-dequipements-electriques-et-electroniques) (Déchets d’équipements électriques et électroniques) notamment ceux du numérique : [Ecologic](https://www.ecologic-france.com/), [Ecosystem](https://www.eco-systemes.fr) et OCAD3E (éco-organisme coordonnateur).
@@ -86,7 +87,8 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 * [Infographie : Les métaux, des ressources qui pourraient manquer ?](https://multimedia.ademe.fr/infographies/infographie-terres-rares-ademe/)
 * [IEA: Data centres and energy – from global headlines to local headaches?](https://www.iea.org/commentaries/data-centres-and-energy-from-global-headlines-to-local-headaches)
 * [Rapport de l'ADEME : Modélisation et évaluation des impacts environnementaux de produits de consommation et biens d'équipement](https://www.ademe.fr/modelisation-evaluation-impacts-environnementaux-produits-consommation-biens-dequipement)
-* [L'envert du décor : supprimer des mails pour sauver la planète, cette fausse bonne idée](https://www.huffingtonpost.fr/entry/supprimer-mails-ecologie_fr_5f8577cfc5b6e5c320039215)
+* [L'envert du décor : supprimer des mails pour sauver la planète, cette fausse bonne idée](https://www.huffingtonpost.fr/entry/supprimer-mails-ecologie_fr_5f8577cfc5b6e5c320039215), Huffingtonpost
+* [Evaluating the carbon footprint of a software platform hosted in the cloud](https://medium.com/teads-engineering/evaluating-the-carbon-footprint-of-a-software-platform-hosted-in-the-cloud-e716e14e060c), Benjamin DAVY
 
 ### Payantes
 
