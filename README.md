@@ -73,7 +73,7 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 
 ## Ressources
 
-### Gratuites
+### Non payantes
 
 * [Charte Numérique Responsable](https://charte.institutnr.org/)
 * [Numérique au bureau](https://particuliers.ademe.fr/au-bureau/numerique), Ademe
