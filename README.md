@@ -130,6 +130,7 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 
 ## Outils
 
+* [PowerAPI](http://www.powerapi.org/) PowerAPI est un middleware pour estimer la consommation énergétique d'un logiciel en temps réel. 
 * Panel Audit de Chrome
 * [web.dev](https://web.dev/)
 * [ecoIndex](http://www.ecoindex.fr)
