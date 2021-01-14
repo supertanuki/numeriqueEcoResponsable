@@ -49,6 +49,7 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 * [Collectif conception numérique responsable](https://collectif.greenit.fr/) : avec entre autres Frédéric Bordage, Romuald Priol...
 * [EcoInfo](https://ecoinfo.cnrs.fr/), « pour une informatique éco-responsable », groupement de services du CNRS. Avec entre autres Françoise Berthoud.
 * Éco-organismes agréés par l'Etat pour la collecte et le traitement des [DEEE](https://www.ecologie.gouv.fr/dechets-dequipements-electriques-et-electroniques) (Déchets d’équipements électriques et électroniques) notamment ceux du numérique : [Ecologic](https://www.ecologic-france.com/), [Ecosystem](https://www.eco-systemes.fr) et OCAD3E (éco-organisme coordonnateur).
+* [Electrocycle](https://www.electrocycle.co/) : association et laboratoire citoyen de recherche de solutions en vue de développer le réemploi des équipements électriques et électroniques en fin de vie.
 * [Green code lab](https://www.greencodelab.org/)
 * [GreenIT.fr](https://www.greenit.fr/), créé par Frédéric Bordage, communauté des acteurs du numérique responsable qui s’intéressent à la sobriété numérique, à l’écoconception des services numériques, à la lowtech, et plus globalement à un avenir numérique alternatif (depuis 2004)
 * [Fing](https://fing.org/), pour un numérique porteur d’avenir et centré sur les capacités humaines.
