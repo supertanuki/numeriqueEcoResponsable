@@ -99,6 +99,7 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 * [Étude d’impact de la lecture d’une vidéo Canal+](https://greenspector.com/fr/impact-video-canal/), Greenspector, 2020
 * [Les data centers, ou l’impossible frugalité numérique ?](https://www.caissedesdepots.fr/sites/default/files/2021-01/201210_Cahiers%20de%20recherche_2020_DATA_CENTERS_P.pdf), Institut pour la recherche de la Caisse des Dépôts, 2021
 * [Le numérique peut-il être écologique et responsable ? ](https://www.franceculture.fr/emissions/de-cause-a-effets-le-magazine-de-lenvironnement/de-cause-a-effets-le-magazine-de-lenvironnement-du-mardi-05-janvier-2021), France Culture, 2021
+* [La décharge de déchets électroniques d’Agbogbloshie, véritable défi économique et environnemental pour le Ghana](https://www.francetvinfo.fr/monde/afrique/societe-africaine/la-decharge-de-dechets-electroniques-dagbogbloshie-veritable-defi-economique-et-environnemental-pour-le-ghana_3863287.html)
 
 ### Payantes
 
