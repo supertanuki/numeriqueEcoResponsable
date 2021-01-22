@@ -114,6 +114,7 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 * [Green IT, 72 bonnes pratiques](https://checklists.opquast.com/greenit/)
 * [Les règles du green code label](https://label.greencodelab.org/green-code-label-detail/)
 * [Utiliser police de caractères système](https://css-tricks.com/snippets/css/font-stacks/)
+* [Front-End Performance Checklist](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/)
 
 ## Normes et labels
 
