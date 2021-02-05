@@ -115,7 +115,7 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 * [Les règles du green code label](https://label.greencodelab.org/green-code-label-detail/)
 * [Utiliser police de caractères système](https://css-tricks.com/snippets/css/font-stacks/)
 * [Front-End Performance Checklist](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/)
-* [What is sustainable web design?](https://live-swdorg.pantheonsite.io/)
+* [What is sustainable web design?](https://sustainablewebdesign.org/)
 
 ## Normes et labels
 
