@@ -100,6 +100,7 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 * [Les data centers, ou l’impossible frugalité numérique ?](https://www.caissedesdepots.fr/sites/default/files/2021-01/201210_Cahiers%20de%20recherche_2020_DATA_CENTERS_P.pdf), Institut pour la recherche de la Caisse des Dépôts, 2021
 * [Le numérique peut-il être écologique et responsable ? ](https://www.franceculture.fr/emissions/de-cause-a-effets-le-magazine-de-lenvironnement/de-cause-a-effets-le-magazine-de-lenvironnement-du-mardi-05-janvier-2021), France Culture, 2021
 * [La décharge de déchets électroniques d’Agbogbloshie, véritable défi économique et environnemental pour le Ghana](https://www.francetvinfo.fr/monde/afrique/societe-africaine/la-decharge-de-dechets-electroniques-dagbogbloshie-veritable-defi-economique-et-environnemental-pour-le-ghana_3863287.html)
+* [La loi de Wirth](https://fr.wikipedia.org/wiki/Loi_de_Wirth) est une loi empirique formulée par Niklaus Wirth en 1995, selon laquelle « les programmes ralentissent plus vite que le matériel n'accélère ».
 
 ### Payantes
 
