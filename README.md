@@ -104,6 +104,7 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 * [Mozilla’s Climate Commitments](https://blog.mozilla.org/blog/2021/01/21/mozillas-climate-commitments/), janvier 2021
 * [Devenir un développeur green avec l’éco-conception web](https://alexsoyes.com/eco-conception-web/), janvier 2021
 * [Les trois newbies qui voulaient calculer l'impact de leur site web ](https://dev.to/batbyr/les-trois-newbies-qui-voulaient-calculer-l-impact-de-leur-site-web-abn), février 2021
+* [Why France’s new ‘repairability index’ is a big deal](https://grist.org/climate/why-frances-new-repairability-index-is-a-big-deal/)
 
 ### Payantes
 
