@@ -7,6 +7,7 @@ Cette page a pour modeste ambition de lister les ressources et l'écosystème su
 ## Etudes
 
 * [Empreinte environnementale du numérique mondial](https://www.greenit.fr/wp-content/uploads/2019/10/2019-10-GREENIT-etude_EENM-rapport-accessible.VF_.pdf), greenit.fr, octobre 2019.
+* [iNUM 2020 : impacts environnementaux du numérique en France](https://www.greenit.fr/impacts-environnementaux-du-numerique-en-france/), GreenIT.fr, juin 2020
 * [Pour une sobriété numérique](https://theshiftproject.org/article/pour-une-sobriete-numerique-rapport-shift/), Shift Project, octobre 2018.
 * [Climat : l’insoutenable usage de la vidéo en ligne](https://theshiftproject.org/article/climat-insoutenable-usage-video/), Shift Project, juillet 2019.
 * [Déployer la sobriété numérique](https://theshiftproject.org/article/deployer-la-sobriete-numerique-rapport-shift/), Shift Project, octobre 2020.
@@ -115,6 +116,7 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 ## Conception
 
 * [Référentiel d'écoconception web, check-list des 115 bonnes pratiques](https://collectif.greenit.fr/ecoconception-web/115-bonnes-pratiques-eco-conception_web.html)
+* [Référentiel de conformité](https://collectif.greenit.fr/ecoconception-web/) du collectif Conception Numérique Responsable pour guider l'évaluation de la mise en oeuvre des bonnes pratiques d'écoconception avec des règles de test partagées
 * [Opquast V3, 226 critères](https://checklists.opquast.com/fr/oqs-v3/)
 * [Webperf, 41 critères](https://checklists.opquast.com/webperf/)
 * [Green IT, 72 bonnes pratiques](https://checklists.opquast.com/greenit/)
@@ -140,32 +142,44 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 
 ## Outils
 
-* [PowerAPI](http://www.powerapi.org/) PowerAPI est un middleware pour estimer la consommation énergétique d'un logiciel en temps réel. 
-* Panel Audit de Chrome
-* [web.dev](https://web.dev/)
-* [ecoIndex](http://www.ecoindex.fr)
-* [Calcul impact environnemental pro](https://institutnr.org/calculatrice/impact-environnemental-numerique-inr.html)
-* [EcoDiag](https://ecoinfo.cnrs.fr/ecodiag/)
-* [Pingdom](https://tools.pingdom.com/)
-* [ecometer](http://www.ecometer.org/)
-* [GTmetrix](https://gtmetrix.com/)
-* [websitecarbon.com](https://www.websitecarbon.com/)
-* [Web energy archive](https://wea.greencodelab.org/fr/)
-* [Mobile Efficiency Index](https://mobile-efficiency-index.com/)
-* [Axe Developer Tools](https://addons.mozilla.org/fr/firefox/addon/axe-devtools/), accessibility auditing to the Firefox Developer Tools
-* [Carbonalyser](https://theshiftproject.org/carbonalyser-extension-navigateur/)
-* [Argos](https://github.com/marmelab/argos), docker monitoring experiment
-* [Low web extension](https://github.com/lowwebtech/low-web-extension), webextension that reduces data and carbon footprint of your internet browsing.
-* [Futureco – L'impact climat des gestes quotidiens](https://futur.eco/) dont une catégorie sur le numérique.
-* [CodeCarbon](https://github.com/mlco2/codecarbon), un package python pour mesurer la consommation énergétique d'un algorithme.
-* [Scaphandre](https://github.com/hubblo-org/scaphandre) un outil de mesure de la consommation énergétique des serveurs et des services qu'ils hébergent
+### Mesure d'impact environnemental
 
-## Financements
+* [Argos](https://github.com/marmelab/argos), docker monitoring experiment
+* [Calculatrice impact environnemental pro](https://institutnr.org/calculatrice/impact-environnemental-numerique-inr.html) proposée par l'INR
+* [Calculette EcoIndex](https://github.com/rachelwe/Simulateur-ecoindex)
+* [Carbonalyser](https://theshiftproject.org/carbonalyser-extension-navigateur/), outil de sensibilisation proposée par The Shift Project mais ne repose pas sur une ACV mais sur le [1-byte model](https://theshiftproject.org/wp-content/uploads/2018/10/Lean-ICT-Materials-1byte-Model-2018.xlsx) qui fait une équivalence entre un octet transféré sur le réseau + terminal + datacenter et un impact environnemental lié à la consommation électrique.
+* [CodeCarbon](https://github.com/mlco2/codecarbon), un package python pour mesurer la consommation énergétique d'un algorithme.
+* [EcoDiag](https://ecoinfo.cnrs.fr/ecodiag/), "calculatrice" proposée
+* [EcoIndex](http://www.ecoindex.fr) proposé par greenIt.fr : c'est l'outil de référence, basé sur une ACV simplifiée.
+* [Ecometer](http://www.ecometer.org/), similaire à EcoIndex et propose un contrôle automatique de 15 bonnes pratiques. Outil soutenu par l'ADEME Bourgogne Franche-Comté.
+* [Futureco – L'impact climat des gestes quotidiens](https://futur.eco/) dont une catégorie sur le numérique.
+* GreenIT-analysis, extension de navigateur basée sur la même méthodologie que [EcoIndex](http://www.ecoindex.fr), pour [Firefox](https://addons.mozilla.org/fr/firefox/addon/greenit-analysis/) et [Chrome](https://chrome.google.com/webstore/detail/greenit-analysis/mofbfhffeklkbebfclfaiifefjflcpad)
+* [Mobile Efficiency Index](https://mobile-efficiency-index.com/), outil proposé par Greenspector et qui permet de mesurer la consommation d'énergie d'un site web sur un appareil mobile.
+* [PowerAPI](http://www.powerapi.org/) PowerAPI est un middleware pour estimer la consommation énergétique d'un logiciel en temps réel. 
+* [Scaphandre](https://github.com/hubblo-org/scaphandre) un outil de mesure de la consommation énergétique des serveurs et des services qu'ils hébergent
+* [Web energy archive](https://wea.greencodelab.org/fr/)
+* [Websitecarbon.com](https://www.websitecarbon.com/), outil anglais très axé sur l'impact GES de la consommation électrique, donc à prendre avec des pincettes.
+
+### Performance
+
+* Panel Audit de Chrome
+* [Web.dev](https://web.dev/), l'outil de mesure de la performance proposé par Google.
+* [Pingdom](https://tools.pingdom.com/)
+* [GTmetrix](https://gtmetrix.com/)
+
+### Autres outils
+
+* [Axe Developer Tools](https://addons.mozilla.org/fr/firefox/addon/axe-devtools/), accessibility auditing to the Firefox Developer Tools
+* [Low web extension](https://github.com/lowwebtech/low-web-extension), webextension that reduces data and carbon footprint of your internet browsing.
+
+## Divers
+
+### Financements
 
 * Perfecto 2021 de l'ADEME. Deux axes thématiques pour cette édition : étude de faisabilité en écoconception et Ecoconception numérique. [Webinaire de présentation le 23/10/2020](https://register.gotowebinar.com/register/950584287478439180).
 * [Appel à manifestation Greentech Innovation](https://greentechverte.fr/2020/10/02/test/) dont un volet sur le numérique durable.
 
-## Challenges
+### Challenges
 
 * [ApiDays - Sustainable Digital Challenge](https://www.apidays.co/sustainable-digital-challenge/)
 * [Design4Green](https://design4green.org/)
