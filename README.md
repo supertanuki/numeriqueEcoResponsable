@@ -105,6 +105,7 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 * [Devenir un développeur green avec l’éco-conception web](https://alexsoyes.com/eco-conception-web/), janvier 2021
 * [Les trois newbies qui voulaient calculer l'impact de leur site web ](https://dev.to/batbyr/les-trois-newbies-qui-voulaient-calculer-l-impact-de-leur-site-web-abn), février 2021
 * [Why France’s new ‘repairability index’ is a big deal](https://grist.org/climate/why-frances-new-repairability-index-is-a-big-deal/)
+* [Investigating the Correlation between Performance Scores andEnergy Consumption of Mobile Web Apps](https://www.researchgate.net/profile/Ivano_Malavolta/publication/341123776_Investigating_the_Correlation_between_Performance_Scores_and_Energy_Consumption_of_Mobile_Web_Apps/links/5ebb8f3992851c11a8650a13/Investigating-the-Correlation-between-Performance-Scores-and-Energy-Consumption-of-Mobile-Web-Apps.pdf?origin=publication_detail)
 
 ### Payantes
 
