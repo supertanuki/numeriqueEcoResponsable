@@ -108,6 +108,7 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 * [Les trois newbies qui voulaient calculer l'impact de leur site web ](https://dev.to/batbyr/les-trois-newbies-qui-voulaient-calculer-l-impact-de-leur-site-web-abn), février 2021
 * [Why France’s new ‘repairability index’ is a big deal](https://grist.org/climate/why-frances-new-repairability-index-is-a-big-deal/), février 2021
 * [Investigating the Correlation between Performance Scores andEnergy Consumption of Mobile Web Apps](https://www.researchgate.net/profile/Ivano_Malavolta/publication/341123776_Investigating_the_Correlation_between_Performance_Scores_and_Energy_Consumption_of_Mobile_Web_Apps/links/5ebb8f3992851c11a8650a13/Investigating-the-Correlation-between-Performance-Scores-and-Energy-Consumption-of-Mobile-Web-Apps.pdf?origin=publication_detail), mai 2020
+* [Économiser 42Ko pour sauver 50Tb de bande passante](https://welovedevs.com/fr/articles/rex-crispchat-economiser-42ko-pour-sauver-50tb-de-bande-passante/), Crisp, février 2021
 
 ### Payantes
 
