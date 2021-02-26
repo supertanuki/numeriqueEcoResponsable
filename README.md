@@ -70,6 +70,7 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 * [Commown](https://commown.coop/) : location de Fairphone, PC et casques audio. Avec entre autres Adrien Montagut.
 * [DDemain](https://ddemain.com/) créé par Julie Orgelet, formatrice et consultante en analyse de cycle de vie.
 * [Fairphone](https://www.fairphone.com/fr/), smartphone éthique et réparable.
+* [Framework Laptop](https://frame.work/), upgradeable and repairable laptop.
 * [Frédéric Bordage de GreenIT.fr](https://www.greenit.fr/), consultant et formateur numérique responsable et éco-conception de services numériques.
 * [Greenspector](https://greenspector.com/), outil de mesure de l’empreinte environnementale des applications.
 * [Greenet.io](https://www.greenet.io/), application de mesure et réduction de l’empreinte carbone de votre navigation web.
