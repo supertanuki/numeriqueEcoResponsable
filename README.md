@@ -154,6 +154,7 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 * [CodeCarbon](https://github.com/mlco2/codecarbon), un package python pour mesurer la consommation énergétique d'un algorithme.
 * [EcoDiag](https://ecoinfo.cnrs.fr/ecodiag/), "calculatrice" proposée
 * [EcoIndex](http://www.ecoindex.fr) proposé par greenIt.fr : c'est l'outil de référence, basé sur une ACV simplifiée.
+* [EcoIndex node](https://github.com/cyve/ecoindex_node) : Node.js module to calculate a webpage's ecoindex
 * [Ecometer](http://www.ecometer.org/), similaire à EcoIndex et propose un contrôle automatique de 15 bonnes pratiques. Outil soutenu par l'ADEME Bourgogne Franche-Comté.
 * [Futureco – L'impact climat des gestes quotidiens](https://futur.eco/) dont une catégorie sur le numérique.
 * GreenIT-analysis, extension de navigateur basée sur la même méthodologie que [EcoIndex](http://www.ecoindex.fr), pour [Firefox](https://addons.mozilla.org/fr/firefox/addon/greenit-analysis/) et [Chrome](https://chrome.google.com/webstore/detail/greenit-analysis/mofbfhffeklkbebfclfaiifefjflcpad)
