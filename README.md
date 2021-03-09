@@ -132,7 +132,7 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 
 * [Norme ISO 14062](https://www.iso.org/fr/standard/33020.html) : Management environnemental - Intégration des aspects environnementaux dans la conception et le développement de produit.
 * [Label Numérique Responsable](https://label-nr.fr/) à destination des organisations.
-* [L.1410 : Méthodologie applicable aux analyses environnementales du cycle de vie des biens, réseaux et services utilisant les technologies de l'information et de la communication](https://www.itu.int/rec/T-REC-L.1410-201412-I/fr)
+* [ITU L.1410 : Méthodologie applicable aux analyses environnementales du cycle de vie des biens, réseaux et services utilisant les technologies de l'information et de la communication](https://www.itu.int/rec/T-REC-L.1410-201412-I/fr)
 
 ## Sensibilisation, formation et certification
 
