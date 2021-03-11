@@ -118,6 +118,7 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 
 ## Conception
 
+* [Le guide d’éco-conception de services numériques](https://eco-conception.designersethiques.org/guide/) par les Designers Ethiques
 * [Référentiel d'écoconception web, check-list des 115 bonnes pratiques](https://collectif.greenit.fr/ecoconception-web/115-bonnes-pratiques-eco-conception_web.html)
 * [Référentiel de conformité](https://collectif.greenit.fr/ecoconception-web/) du collectif Conception Numérique Responsable pour guider l'évaluation de la mise en oeuvre des bonnes pratiques d'écoconception avec des règles de test partagées
 * [Opquast V3, 226 critères](https://checklists.opquast.com/fr/oqs-v3/)
@@ -126,7 +127,7 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 * [Les règles du green code label](https://label.greencodelab.org/green-code-label-detail/)
 * [Utiliser police de caractères système](https://css-tricks.com/snippets/css/font-stacks/)
 * [Front-End Performance Checklist](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/)
-* [What is sustainable web design?](https://sustainablewebdesign.org/)
+* [Sustainable web design?](https://sustainablewebdesign.org/)
 
 ## Normes et labels
 
