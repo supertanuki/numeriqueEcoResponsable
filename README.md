@@ -153,12 +153,14 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 * [Calculatrice impact environnemental pro](https://institutnr.org/calculatrice/impact-environnemental-numerique-inr.html) proposée par l'INR
 * [Calculette EcoIndex](https://github.com/rachelwe/Simulateur-ecoindex)
 * [Carbonalyser](https://theshiftproject.org/carbonalyser-extension-navigateur/), outil de sensibilisation proposée par The Shift Project mais ne repose pas sur une ACV mais sur le [1-byte model](https://theshiftproject.org/wp-content/uploads/2018/10/Lean-ICT-Materials-1byte-Model-2018.xlsx) qui fait une équivalence entre un octet transféré sur le réseau + terminal + datacenter et un impact environnemental lié à la consommation électrique.
+* [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/)
 * [CodeCarbon](https://github.com/mlco2/codecarbon), un package python pour mesurer la consommation énergétique d'un algorithme.
 * [EcoDiag](https://ecoinfo.cnrs.fr/ecodiag/), "calculatrice" proposée
 * [EcoIndex](http://www.ecoindex.fr) proposé par greenIt.fr : c'est l'outil de référence, basé sur une ACV simplifiée.
 * [EcoIndex node](https://github.com/cyve/ecoindex_node) : Node.js module to calculate a webpage's ecoindex
 * [Ecometer](http://www.ecometer.org/), similaire à EcoIndex et propose un contrôle automatique de 15 bonnes pratiques. Outil soutenu par l'ADEME Bourgogne Franche-Comté.
 * [Futureco – L'impact climat des gestes quotidiens](https://futur.eco/) dont une catégorie sur le numérique.
+* [GreenFrame](https://greenframe.io/) What is the carbon footprint of my website?
 * GreenIT-analysis, extension de navigateur basée sur la même méthodologie que [EcoIndex](http://www.ecoindex.fr), pour [Firefox](https://addons.mozilla.org/fr/firefox/addon/greenit-analysis/) et [Chrome](https://chrome.google.com/webstore/detail/greenit-analysis/mofbfhffeklkbebfclfaiifefjflcpad)
 * [Mobile Efficiency Index](https://mobile-efficiency-index.com/), outil proposé par Greenspector et qui permet de mesurer la consommation d'énergie d'un site web sur un appareil mobile.
 * [PowerAPI](http://www.powerapi.org/) PowerAPI est un middleware pour estimer la consommation énergétique d'un logiciel en temps réel. 
