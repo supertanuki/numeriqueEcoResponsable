@@ -74,6 +74,7 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 * [Frédéric Bordage de GreenIT.fr](https://www.greenit.fr/), consultant et formateur numérique responsable et éco-conception de services numériques.
 * [Greenspector](https://greenspector.com/), outil de mesure de l’empreinte environnementale des applications.
 * [Greenet.io](https://www.greenet.io/), application de mesure et réduction de l’empreinte carbone de votre navigation web.
+* [ISIA](https://groupe-isia.com), Première entreprise de service numérique bénéficiant du label Numérique Responsable.
 
 ## Ressources
 
@@ -144,6 +145,7 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 * [Formations à l'Analyse du cycle de vie de service numérique](https://ddemain.com/) proposées par DDemain
 * [Ateliers et formations de sensibilisation](http://www.point-de-mir.com/ateliers-et-formations) proposés par Point de M.I.R
 * [Econum, le jeu pour un numérique plus responsable](https://ddemain.com/econum/jeu/), un jeu de cartes pour découvrir des écogestes numériques.
+* [Formations à la conception de service numérique - Formation AMOA et Product Owner - Formation CP et Développeur] (https://groupe-isia.com) proposées par ISIA - Centre de Formation 
 
 ## Outils
 
@@ -167,6 +169,10 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 * [Scaphandre](https://github.com/hubblo-org/scaphandre) un outil de mesure de la consommation énergétique des serveurs et des services qu'ils hébergent
 * [Web energy archive](https://wea.greencodelab.org/fr/)
 * [Websitecarbon.com](https://www.websitecarbon.com/), outil anglais très axé sur l'impact GES de la consommation électrique, donc à prendre avec des pincettes.
+* [Energy Meter Logger](https://github.com/samuelphy/energy-meter-logger)
+* [CPU Energy Meter](https://github.com/sosy-lab/cpu-energy-meter)
+* [CarbonTracker](https://github.com/lfwa/carbontracker) outil de suivi et de prédiction de la consommation d'énergie et de l'empreinte carbone des modèles d'apprentissage profond de formation
+* [experiment-impact-tracker](https://github.com/Breakend/experiment-impact-tracker)méthode simple pour suivre la consommation d'énergie, les émissions de carbone et calculer l'utilisation de votre système
 
 ### Performance
 
