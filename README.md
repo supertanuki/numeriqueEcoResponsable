@@ -111,6 +111,7 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 * [Investigating the Correlation between Performance Scores andEnergy Consumption of Mobile Web Apps](https://www.researchgate.net/profile/Ivano_Malavolta/publication/341123776_Investigating_the_Correlation_between_Performance_Scores_and_Energy_Consumption_of_Mobile_Web_Apps/links/5ebb8f3992851c11a8650a13/Investigating-the-Correlation-between-Performance-Scores-and-Energy-Consumption-of-Mobile-Web-Apps.pdf?origin=publication_detail), mai 2020
 * [Économiser 42Ko pour sauver 50Tb de bande passante](https://welovedevs.com/fr/articles/rex-crispchat-economiser-42ko-pour-sauver-50tb-de-bande-passante/), Crisp, février 2021
 * [Sustainable software products—Towards assessment criteria for resource and energy efficiency](https://www.sciencedirect.com/science/article/pii/S0167739X17314188), 2018
+* [Les métaux :  des ressources qui pourraient manquer ?](https://multimedia.ademe.fr/infographies/infographie-terres-rares-ademe/), infographie de l'ADEME, 2020
 
 ### Payantes
 
