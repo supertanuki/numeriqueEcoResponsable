@@ -130,6 +130,7 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 * [Utiliser police de caractères système](https://css-tricks.com/snippets/css/font-stacks/)
 * [Front-End Performance Checklist](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/)
 * [Sustainable web design?](https://sustainablewebdesign.org/)
+* [Web Design For The Planet](https://www.webdesignfortheplanet.com/) Recueil de bonnes pratiques pour un web plus écolo
 
 ## Normes et labels
 
