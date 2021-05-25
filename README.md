@@ -1,4 +1,4 @@
-# Numérique éco-responsable
+# Numérique et environnement
 
 ## A propos
 
