@@ -54,7 +54,6 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 * [Green code lab](https://www.greencodelab.org/)
 * [GreenIT.fr](https://www.greenit.fr/), créé par Frédéric Bordage, communauté des acteurs du numérique responsable qui s’intéressent à la sobriété numérique, à l’écoconception des services numériques, à la lowtech, et plus globalement à un avenir numérique alternatif (depuis 2004)
 * [Fing](https://fing.org/), pour un numérique porteur d’avenir et centré sur les capacités humaines.
-* [Fresque du Numérique](https://www.fresquedunumerique.org/) proposée par Aurélien Déragne et Yvain Mouneu.
 * [Halte à l'obsolescence programmée](https://www.halteobsolescence.org/) : avec entre autres Laeticia Vasseur, Adèle Chasson, Samuel Sauvage.
 * [Institut Numérique Responsable](https://institutnr.org/), entre autres Jean-Christophe Chaussat (Pôle-Emploi) et Vincent Courboulay (Université de la Rochelle).
 * [Mission interministérielle "Green Tech"](https://ecoresponsable.numerique.gouv.fr/) pilotée dans le cadre du programme TECH.GOUV par le Ministère de la Transition Ecologique et la DINUM.
@@ -141,13 +140,15 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 
 ## Sensibilisation, formation et certification
 
-* [Openclassrooms - Appliquez les principes du Green IT dans votre entreprise](https://openclassrooms.com/fr/courses/6227476-appliquez-les-principes-du-green-it-dans-votre-entreprise)
-* [Formations certifiantes par GreenIT](https://www.greenit.fr/formations/)
-* [MOOC Sensibilisation au numérique responsable](https://www.academie-nr.org/sensibilisation/#/) (gratuit)
-* [MOOC Numérique Responsable](https://www.academie-nr.org/#mooc-nr) (gratuit)
-* [Formations à l'Analyse du cycle de vie de service numérique](https://ddemain.com/) proposées par DDemain
 * [Ateliers et formations de sensibilisation](http://www.point-de-mir.com/ateliers-et-formations) proposés par Point de M.I.R
 * [Econum, le jeu pour un numérique plus responsable](https://ddemain.com/econum/jeu/), un jeu de cartes pour découvrir des écogestes numériques.
+* [Formations à l'Analyse du cycle de vie de service numérique](https://ddemain.com/) proposées par DDemain
+* [Formations certifiantes par GreenIT](https://www.greenit.fr/formations/)
+* [Fresque du Numérique](https://www.fresquedunumerique.org/) proposée par Aurélien Déragne et Yvain Mouneu.
+* [MOOC Numérique Responsable](https://www.academie-nr.org/#mooc-nr) (gratuit)
+* [MOOC Sensibilisation au numérique responsable](https://www.academie-nr.org/sensibilisation/#/) (gratuit)
+* [Principes de l’ingénierie logicielle durable](https://docs.microsoft.com/fr-fr/learn/modules/sustainable-software-engineering-overview/) par Microsoft
+* [Principes du Green IT en entreprise](https://openclassrooms.com/fr/courses/6227476-appliquez-les-principes-du-green-it-dans-votre-entreprise), Openclassrooms
 
 ## Outils
 
