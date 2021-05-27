@@ -207,3 +207,4 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 * [Awesome Numérique Responsable](https://github.com/cyrildotcc/awesome-numerique-responsable)
 * [Awesome Energy](https://github.com/bpetit/awesome-energy.git)
 * [Bookmarks Green IT](https://github.com/rlemaire/bookmarks-green-it)
+* [Des liens sur le numérique responsable](https://bertrandkeller.info/liens/numeriques-responsables/)
