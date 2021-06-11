@@ -112,6 +112,7 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 * [Sustainable software products—Towards assessment criteria for resource and energy efficiency](https://www.sciencedirect.com/science/article/pii/S0167739X17314188), 2018
 * [Les métaux :  des ressources qui pourraient manquer ?](https://multimedia.ademe.fr/infographies/infographie-terres-rares-ademe/), infographie de l'ADEME, 2020
 * [Guide pratique pour des achats numériques responsables](https://ecoresponsable.numerique.gouv.fr/publications/guide-pratique-achats-numeriques-responsables/), Dinum, DAE, MTE/CGDD, INR, avril 2021
+* [Rapport sur l’impact environnemental du numérique en santé](https://esante.gouv.fr/virage-numerique/ethique-et-numerique-en-sante), Délégation ministérielle au numérique en santé, mai 2021
 
 ### Payantes
 
