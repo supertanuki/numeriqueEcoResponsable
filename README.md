@@ -114,6 +114,9 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 * [Guide pratique pour des achats numériques responsables](https://ecoresponsable.numerique.gouv.fr/publications/guide-pratique-achats-numeriques-responsables/), Dinum, DAE, MTE/CGDD, INR, avril 2021
 * [Rapport sur l’impact environnemental du numérique en santé](https://esante.gouv.fr/virage-numerique/ethique-et-numerique-en-sante), Délégation ministérielle au numérique en santé, mai 2021
 * Thèse [Design for Obsolete Devices](https://anaellebeignon.fr/design-for-obsolete-devices.html), Anaëlle Beignon
+* [Réduire la consommation énergétique du numérique](https://www.economie.gouv.fr/files/files/directions_services/cge/consommation-energique-numerique.pdf), Conseil général de l'économie, décembre 2019
+* [Réduire sa facture d'électricité](https://www.ademe.fr/sites/default/files/assets/documents/guide-pratique-reduire-facture-electricite.pdf), ADEME, 2019
+* [Guide de questionnement pour le développement de services numériques](https://librairie.ademe.fr/cadic/5702/guide-questionnement-de_developpement-services-numeriques-011501.pdf), OuiShare / ADEME, 2021
 
 ### Payantes
 
