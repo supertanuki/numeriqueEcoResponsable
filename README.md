@@ -118,6 +118,7 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 * [Réduire sa facture d'électricité](https://www.ademe.fr/sites/default/files/assets/documents/guide-pratique-reduire-facture-electricite.pdf), ADEME, 2019
 * [Guide de questionnement pour le développement de services numériques](https://librairie.ademe.fr/cadic/5702/guide-questionnement-de_developpement-services-numeriques-011501.pdf), OuiShare / ADEME, 2021
 * [Philippe Bihouix : Start-up nation ? Non, low-tech nation !](https://www.socialter.fr/article/tribune-philippe-bihouix-start-up-nation-non-low-tech-nation-1), 2019
+* [Comment construire le Web pour sauver le climat ?](https://apreslabiere.fr/un-autre-web-3-3-comment-construire-le-web-pour-sauver-le-climat-330961895cc3), Jean-Lou Fourquet, Après la bière, 2021
 
 ### Payantes
 
