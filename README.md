@@ -15,6 +15,7 @@ Cette page a pour modeste ambition de lister les ressources et l'écosystème su
 * [La consommation de métaux du numérique : un secteur loin d’être dématérialisé](https://www.strategie.gouv.fr/publications/consommation-de-mentaux-numerique-un-secteur-loin-detre-dematerialise), France Stratégie, 2020.
 * [Feuille de route sur l'environnement et le numérique](https://cnnumerique.fr/files/uploads/2020/CNNum%20-%20Feuille%20de%20route%20environnement%20%26%20numerique.pdf), Conseil National du Numérique, 2020.
 * [Pour une transition numérique écologique](http://www.senat.fr/rap/r19-555/r19-555_mono.html), rapport du Sénat, 2020.
+* [Rapport sur l’obsolescence logicielle](https://www.ecologie.gouv.fr/numerique-et-environnement-remise-au-parlement-du-rapport-sur-lobsolescence-logicielle-prevu) prévu à l’article 27 de la loi relative à la lutte contre le gaspillage et à l’économie circulaire (AGEC), février 2021.
 
 ## Réglementaires
 
