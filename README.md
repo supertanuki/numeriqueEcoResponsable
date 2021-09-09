@@ -156,6 +156,7 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 * [MOOC Sensibilisation au numérique responsable](https://www.academie-nr.org/sensibilisation/#/) (gratuit)
 * [Principes de l’ingénierie logicielle durable](https://docs.microsoft.com/fr-fr/learn/modules/sustainable-software-engineering-overview/) par Microsoft
 * [Principes du Green IT en entreprise](https://openclassrooms.com/fr/courses/6227476-appliquez-les-principes-du-green-it-dans-votre-entreprise), Openclassrooms
+* [L’histoire racontée du Smartphone](https://colori.education/green-it), jeu à télécharger et à imprimer, jouable dès 5 ans.
 
 ## Outils
 
