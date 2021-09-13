@@ -120,6 +120,7 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 * [Guide de questionnement pour le développement de services numériques](https://librairie.ademe.fr/cadic/5702/guide-questionnement-de_developpement-services-numeriques-011501.pdf), OuiShare / ADEME, 2021
 * [Philippe Bihouix : Start-up nation ? Non, low-tech nation !](https://www.socialter.fr/article/tribune-philippe-bihouix-start-up-nation-non-low-tech-nation-1), 2019
 * [Comment construire le Web pour sauver le climat ?](https://apreslabiere.fr/un-autre-web-3-3-comment-construire-le-web-pour-sauver-le-climat-330961895cc3), Jean-Lou Fourquet, Après la bière, 2021
+* [Des métaux dans mon smartphone ?](https://www.systext.org/sites/all/animationreveal/mtxsmp/#/), un outil interactif développé par ISF SystExt (Ingénieurs sans frontières Systèmes extractifs et environnements), 2017
 
 ### Payantes
 
