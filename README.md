@@ -129,9 +129,9 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 
 ## Conception
 
+* [Référentiel général d'écoconception de service numérique](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/), par la Dinum, le ministère de la Transition écologique, l'Ademe et l'Institut du numérique responsable.
 * [Le guide d’éco-conception de services numériques](https://eco-conception.designersethiques.org/guide/) par les Designers Ethiques
-* [Référentiel d'écoconception web, check-list des 115 bonnes pratiques](https://collectif.greenit.fr/ecoconception-web/115-bonnes-pratiques-eco-conception_web.html)
-* [Référentiel de conformité](https://collectif.greenit.fr/ecoconception-web/) du collectif Conception Numérique Responsable pour guider l'évaluation de la mise en oeuvre des bonnes pratiques d'écoconception avec des règles de test partagées
+* [Référentiel d'écoconception web, check-list des 115 bonnes pratiques](https://collectif.greenit.fr/ecoconception-web/115-bonnes-pratiques-eco-conception_web.html) et [référentiel de conformité](https://collectif.greenit.fr/ecoconception-web/) du collectif Conception Numérique Responsable pour guider l'évaluation de la mise en oeuvre des bonnes pratiques d'écoconception avec des règles de test partagées.
 * [Opquast V3, 226 critères](https://checklists.opquast.com/fr/oqs-v3/)
 * [Webperf, 41 critères](https://checklists.opquast.com/webperf/)
 * [Green IT, 72 bonnes pratiques](https://checklists.opquast.com/greenit/)
