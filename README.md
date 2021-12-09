@@ -147,6 +147,7 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 * [Norme ISO 14040](https://www.iso.org/fr/standard/38498.html) : Management environnemental — Analyse du cycle de vie — Principes et cadre.
 * [Norme ISO 14044](https://www.iso.org/fr/standard/38498.html) : Management environnemental — Analyse du cycle de vie — Exigences et lignes directrices.
 * [Norme ISO 14062](https://www.iso.org/fr/standard/33020.html) : Management environnemental - Intégration des aspects environnementaux dans la conception et le développement de produit.
+* [Norme ISO 62430](https://www.iso.org/fr/standard/33020.html) : Écoconception (ECD) — Principes, exigences et recommandations.
 * [Label Numérique Responsable](https://label-nr.fr/) à destination des organisations.
 * [ITU L.1410 : Méthodologie applicable aux analyses environnementales du cycle de vie des biens, réseaux et services utilisant les technologies de l'information et de la communication](https://www.itu.int/rec/T-REC-L.1410-201412-I/fr)
 
