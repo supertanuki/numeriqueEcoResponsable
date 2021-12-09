@@ -144,6 +144,7 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 
 ## Normes et labels
 
+* [Norme ISO 14040](https://www.iso.org/fr/standard/38498.html) : Management environnemental — Analyse du cycle de vie — Principes et cadre.
 * [Norme ISO 14044](https://www.iso.org/fr/standard/38498.html) : Management environnemental — Analyse du cycle de vie — Exigences et lignes directrices.
 * [Norme ISO 14062](https://www.iso.org/fr/standard/33020.html) : Management environnemental - Intégration des aspects environnementaux dans la conception et le développement de produit.
 * [Label Numérique Responsable](https://label-nr.fr/) à destination des organisations.
