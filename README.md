@@ -141,6 +141,7 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 * [Front-End Performance Checklist](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/)
 * [Sustainable web design?](https://sustainablewebdesign.org/)
 * [Web Design For The Planet](https://www.webdesignfortheplanet.com/) Recueil de bonnes pratiques pour un web plus écolo
+* [GR491 - 57 recommandations - 491 critères ](https://gr491.isit-europe.org) GR491, le Guide de Référence de Conception Responsable de Services Numériques créé par l'Institut du Numérique Responsable.
 
 ## Normes et labels
 
