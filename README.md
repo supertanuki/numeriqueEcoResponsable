@@ -122,6 +122,7 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 * [Comment construire le Web pour sauver le climat ?](https://apreslabiere.fr/un-autre-web-3-3-comment-construire-le-web-pour-sauver-le-climat-330961895cc3), Jean-Lou Fourquet, Après la bière, 2021
 * [Des métaux dans mon smartphone ?](https://www.systext.org/sites/all/animationreveal/mtxsmp/#/), un outil interactif développé par ISF SystExt (Ingénieurs sans frontières Systèmes extractifs et environnements), 2017
 * [Livre blanc de l'action GreenConcept - écoconception numérique](http://www.greenconcept-innovation.fr/wp-content/uploads/2020/02/greenconcept_21022020.pdf)
+* [De l’eau dans le numérique ? L’empreinte hydrique méconnue d’un secteur perçu à tort comme immatériel](https://www.millenaire3.com/ressources/veille-m3-de-l-eau-dans-le-numerique-l-empreinte-hydrique-meconnue-d-un-secteur-percu-a-tort-comme-immateriel)
 
 ### Payantes
 
