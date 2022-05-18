@@ -186,6 +186,7 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 * [GreenFrame](https://greenframe.io/) What is the carbon footprint of my website?
 * GreenIT-analysis, extension de navigateur basée sur la même méthodologie que [EcoIndex](http://www.ecoindex.fr), pour [Firefox](https://addons.mozilla.org/fr/firefox/addon/greenit-analysis/) et [Chrome](https://chrome.google.com/webstore/detail/greenit-analysis/mofbfhffeklkbebfclfaiifefjflcpad)
 * [Impactomètre](https://impactometre.fr/) : comparaison d'impact environnemental des réunions, basé sur [cette étude de l'UTC](https://halshs.archives-ouvertes.fr/halshs-03120479).
+* [Kastor.green](https://kastor.green/), outil d'audit d'évaluation de la conformité NR des sites web et applications web proposé par Spécinov, basé sur les recommandations du GR491.
 * [Mobile Efficiency Index](https://mobile-efficiency-index.com/), outil proposé par Greenspector et qui permet de mesurer la consommation d'énergie d'un site web sur un appareil mobile.
 * [PowerAPI](http://www.powerapi.org/) PowerAPI est un middleware pour estimer la consommation énergétique d'un logiciel en temps réel. 
 * [Scaphandre](https://github.com/hubblo-org/scaphandre) un outil de mesure de la consommation énergétique des serveurs et des services qu'ils hébergent
