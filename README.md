@@ -17,7 +17,7 @@ Cette page a pour modeste ambition de lister les ressources et l'écosystème su
 * [Pour une transition numérique écologique](http://www.senat.fr/rap/r19-555/r19-555_mono.html), rapport du Sénat, 2020.
 * [Rapport sur l’obsolescence logicielle](https://www.ecologie.gouv.fr/numerique-et-environnement-remise-au-parlement-du-rapport-sur-lobsolescence-logicielle-prevu) prévu à l’article 27 de la loi relative à la lutte contre le gaspillage et à l’économie circulaire (AGEC), février 2021.
 * [Chasing Carbon: The Elusive Environmental Footprint of Computing](https://arxiv.org/pdf/2011.02839.pdf), Harvard University, Facebook Inc., Arizona State University, 2020
-* [How realistic are claims about the benefits of using digital technologies for GHG emissions mitigation?](https://computingwithinlimits.org/2022/papers/limits22-final-Rasoldier.pdf)https://computingwithinlimits.org/2022/papers/limits22-final-Rasoldier.pdf
+* [How realistic are claims about the benefits of using digital technologies for GHG emissions mitigation?](https://computingwithinlimits.org/2022/papers/limits22-final-Rasoldier.pdf)
 
 ## Réglementaires
 
