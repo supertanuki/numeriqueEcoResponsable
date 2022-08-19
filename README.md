@@ -86,7 +86,6 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 * [La face cachée du numérique](https://www.ademe.fr/sites/default/files/assets/documents/guide-pratique-face-cachee-numerique.pdf), Ademe, 2019
 * [Situer le numérique](https://designcommun.fr/cahiers/situer-le-numerique/), Gauthier Roussilhe, 2020.
 * [La controverse de la 5G](https://gauthierroussilhe.com/fr/projects/controverse-de-la-5g), Gauthier Roussilhe, 2020.
-* [Guide de conversion numérique au low tech](http://gauthierroussilhe.com/fr/posts/convert-low-tech), Gauthier Roussilhe, 2019.
 * [Notes issues du livre : « Analyse du cycle de vie : comprendre et réaliser un éco bilan »](http://raphael-lemaire.com/2020/03/26/acv-livre/), Raphaël Lemaire, 2020.
 * [Mise en perspective des impacts écologiques du numérique](http://raphael-lemaire.com/2019/11/02/mise-en-perspective-impacts-numerique/), Raphaël Lemaire, 2019.
 * [Lowtus](https://lowtus.fr/), audits qualité de sites web
