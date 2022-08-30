@@ -188,6 +188,7 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 * [Impactomètre](https://impactometre.fr/) : comparaison d'impact environnemental des réunions, basé sur [cette étude de l'UTC](https://halshs.archives-ouvertes.fr/halshs-03120479).
 * [Kastor.green](https://kastor.green/), outil d'audit d'évaluation de la conformité NR des sites web et applications web proposé par Spécinov, basé sur les recommandations du GR491.
 * [Mobile Efficiency Index](https://mobile-efficiency-index.com/), outil proposé par Greenspector et qui permet de mesurer la consommation d'énergie d'un site web sur un appareil mobile.
+* [Pagiel](https://github.com/Zenika/pagiel) rend possible l'utilisation de quatre projets web open source que sont GreenIT Analysis, SiteSpeed, Yellow Lab Tools et PowerAPI depuis un runner GitLab pour les tests ou le déploiement en continu.
 * [PowerAPI](http://www.powerapi.org/) PowerAPI est un middleware pour estimer la consommation énergétique d'un logiciel en temps réel. 
 * [Scaphandre](https://github.com/hubblo-org/scaphandre) un outil de mesure de la consommation énergétique des serveurs et des services qu'ils hébergent
 * [Web energy archive](https://wea.greencodelab.org/fr/)
