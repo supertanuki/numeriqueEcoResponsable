@@ -125,6 +125,7 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 * [Livre blanc de l'action GreenConcept - écoconception numérique](http://www.greenconcept-innovation.fr/wp-content/uploads/2020/02/greenconcept_21022020.pdf)
 * [De l’eau dans le numérique ? L’empreinte hydrique méconnue d’un secteur perçu à tort comme immatériel](https://www.millenaire3.com/ressources/veille-m3-de-l-eau-dans-le-numerique-l-empreinte-hydrique-meconnue-d-un-secteur-percu-a-tort-comme-immateriel)
 * [Evaluation de l'impact environnemental d'un ensemble de produits reconditionnés : Smartphones, tablettes, ordinateurs portables et fixes](https://librairie.ademe.fr/dechets-economie-circulaire/5241-evaluation-de-l-impact-environnemental-d-un-ensemble-de-produits-reconditionnes.html), ADEME, 2022
+* [Evaluation des impacts environnementaux de l'édition virtuelle 2020 des Assises de l'Economie Circulaire](https://librairie.ademe.fr/dechets-economie-circulaire/4886-evaluation-des-impacts-environnementaux-de-l-edition-virtuelle-2020-des-assises-de-l-economie-circulaire.html), ADEME, 2021
 
 ### Payantes
 
