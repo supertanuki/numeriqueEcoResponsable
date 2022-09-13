@@ -124,6 +124,7 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 * [Des métaux dans mon smartphone ?](https://www.systext.org/sites/all/animationreveal/mtxsmp/#/), un outil interactif développé par ISF SystExt (Ingénieurs sans frontières Systèmes extractifs et environnements), 2017
 * [Livre blanc de l'action GreenConcept - écoconception numérique](http://www.greenconcept-innovation.fr/wp-content/uploads/2020/02/greenconcept_21022020.pdf)
 * [De l’eau dans le numérique ? L’empreinte hydrique méconnue d’un secteur perçu à tort comme immatériel](https://www.millenaire3.com/ressources/veille-m3-de-l-eau-dans-le-numerique-l-empreinte-hydrique-meconnue-d-un-secteur-percu-a-tort-comme-immateriel)
+* [Evaluation de l'impact environnemental d'un ensemble de produits reconditionnés : Smartphones, tablettes, ordinateurs portables et fixes](https://librairie.ademe.fr/dechets-economie-circulaire/5241-evaluation-de-l-impact-environnemental-d-un-ensemble-de-produits-reconditionnes.html), ADEME, 2022
 
 ### Payantes
 
