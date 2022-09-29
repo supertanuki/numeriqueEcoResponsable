@@ -146,6 +146,7 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 * [Sustainable web design?](https://sustainablewebdesign.org/)
 * [Web Design For The Planet](https://www.webdesignfortheplanet.com/) Recueil de bonnes pratiques pour un web plus écolo
 * [GR491 - 57 recommandations - 491 critères ](https://gr491.isit-europe.org) GR491, le Guide de Référence de Conception Responsable de Services Numériques créé par l'Institut du Numérique Responsable.
+* [AFNOR SPEC 2201 - Ecoconception des services numériques](https://www.boutique.afnor.org/fr-fr/norme/afnor-spec-2201/ecoconception-des-services-numeriques/fa203506/323315) 
 
 ## Normes et labels
 
