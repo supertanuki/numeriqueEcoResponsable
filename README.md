@@ -47,7 +47,7 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 ### Institutionnels, think tanks, associations et communautés
 
 * [ADEME](http://alliancegreenit.org), l'agence de la transition écologique qui publie de [nombreuses études](https://www.ademe.fr/mediatheque/recherche?query=num%C3%A9rique) sur les impacts environnementaux du numérique et finance / subventionne des projets liés à ce sujet (Perfecto, AMI Low-Tech...).
-* [Alliance Green IT](http://alliancegreenit.org) : avec entre autres Lise Boillerault, Romuald Ribault, Caroline Vateau...
+* [Alliance Green IT](http://alliancegreenit.org) : avec entre autres Thomas Mesplede, Adèle SCHNEEBERGER, Romuald Ribault, Caroline Vateau...
 * [Arcep](https://www.arcep.fr/nos-sujets/numerique-et-environnement.html) dont le rapport [Pour un numérique soutenable](https://www.arcep.fr/uploads/tx_gspublication/rapport-pour-un-numerique-soutenable_dec2020.pdf)
 * [Clim'Foot](https://climfoot-project.eu/), a European project to calculate greenhouse gas emissions produced by companies and entities founded by programme LIFE 2014-2020.
 * [Collectif conception numérique responsable](https://collectif.greenit.fr/) : avec entre autres Frédéric Bordage, Romuald Priol...
@@ -56,7 +56,6 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 * [Electrocycle](https://www.electrocycle.co/) : association et laboratoire citoyen de recherche de solutions en vue de développer le réemploi des équipements électriques et électroniques en fin de vie.
 * [Green code lab](https://www.greencodelab.org/)
 * [GreenIT.fr](https://www.greenit.fr/), créé par Frédéric Bordage, communauté des acteurs du numérique responsable qui s’intéressent à la sobriété numérique, à l’écoconception des services numériques, à la lowtech, et plus globalement à un avenir numérique alternatif (depuis 2004)
-* [Fing](https://fing.org/), pour un numérique porteur d’avenir et centré sur les capacités humaines.
 * [Halte à l'obsolescence programmée](https://www.halteobsolescence.org/) : avec entre autres Laeticia Vasseur, Adèle Chasson, Samuel Sauvage.
 * [Institut Numérique Responsable](https://institutnr.org/), entre autres Jean-Christophe Chaussat (Pôle-Emploi) et Vincent Courboulay (Université de la Rochelle).
 * [Mission interministérielle "Green Tech"](https://ecoresponsable.numerique.gouv.fr/) pilotée dans le cadre du programme TECH.GOUV par le Ministère de la Transition Ecologique et la DINUM.
