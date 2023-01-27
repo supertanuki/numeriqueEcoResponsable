@@ -126,6 +126,7 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 * [Evaluation de l'impact environnemental d'un ensemble de produits reconditionnés : Smartphones, tablettes, ordinateurs portables et fixes](https://librairie.ademe.fr/dechets-economie-circulaire/5241-evaluation-de-l-impact-environnemental-d-un-ensemble-de-produits-reconditionnes.html), ADEME, 2022
 * [Evaluation des impacts environnementaux de l'édition virtuelle 2020 des Assises de l'Economie Circulaire](https://librairie.ademe.fr/dechets-economie-circulaire/4886-evaluation-des-impacts-environnementaux-de-l-edition-virtuelle-2020-des-assises-de-l-economie-circulaire.html), ADEME, 2021
 * [Quantifier l'impact GES d'une action de réduction des émissions](https://librairie.ademe.fr/cadic/5510/ademe-quanti_ges_2021-web.pdf), Ademe, 2021. Dont certaines actions sur le numérique.
+* [Enseignements sur les enjeux environnementaux et les impacts du numérique dans une école d’ingénieurs](https://plmbox.math.cnrs.fr/f/9f8edb763baa43ae8950/), Annabelle Collin et Al, Univ. Bordeaux, CNRS, Bordeaux INP, Inria...
 
 ### Payantes
 
