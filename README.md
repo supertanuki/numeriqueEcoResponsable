@@ -49,6 +49,7 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 * [ADEME](http://alliancegreenit.org), l'agence de la transition écologique qui publie de [nombreuses études](https://www.ademe.fr/mediatheque/recherche?query=num%C3%A9rique) sur les impacts environnementaux du numérique et finance / subventionne des projets liés à ce sujet (Perfecto, AMI Low-Tech...).
 * [Alliance Green IT](http://alliancegreenit.org) : avec entre autres Thomas Mesplede, Adèle SCHNEEBERGER, Romuald Ribault, Caroline Vateau...
 * [Arcep](https://www.arcep.fr/nos-sujets/numerique-et-environnement.html) dont le rapport [Pour un numérique soutenable](https://www.arcep.fr/uploads/tx_gspublication/rapport-pour-un-numerique-soutenable_dec2020.pdf)
+* [Boavizta](https://boavizta.org/), un groupe de travail & des ressources sous licences libres dédiés à l'évaluation d’impacts environnementaux du numérique des organisations.
 * [Clim'Foot](https://climfoot-project.eu/), a European project to calculate greenhouse gas emissions produced by companies and entities founded by programme LIFE 2014-2020.
 * [Collectif conception numérique responsable](https://collectif.greenit.fr/) : avec entre autres Frédéric Bordage, Romuald Priol...
 * [EcoInfo](https://ecoinfo.cnrs.fr/), « pour une informatique éco-responsable », groupement de services du CNRS. Avec entre autres Françoise Berthoud.
