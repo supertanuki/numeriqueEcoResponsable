@@ -46,7 +46,7 @@ Résumé des aspects réglementaires dans cet article : [Impact environnemental 
 
 ### Institutionnels, think tanks, associations et communautés
 
-* [ADEME]([http://alliancegreenit.org](https://www.ademe.fr/)), l'agence de la transition écologique qui publie de [nombreuses études](https://www.ademe.fr/mediatheque/recherche?query=num%C3%A9rique) sur les impacts environnementaux du numérique et finance / subventionne des projets liés à ce sujet (Perfecto, AMI Low-Tech...).
+* [ADEME](https://www.ademe.fr/), l'agence de la transition écologique qui publie de [nombreuses études](https://www.ademe.fr/mediatheque/recherche?query=num%C3%A9rique) sur les impacts environnementaux du numérique et finance / subventionne des projets liés à ce sujet (Perfecto, AMI Low-Tech...).
 * [Alliance Green IT](http://alliancegreenit.org) : avec entre autres Thomas Mesplede, Adèle SCHNEEBERGER, Romuald Ribault, Caroline Vateau...
 * [Arcep](https://www.arcep.fr/nos-sujets/numerique-et-environnement.html) dont le rapport [Pour un numérique soutenable](https://www.arcep.fr/uploads/tx_gspublication/rapport-pour-un-numerique-soutenable_dec2020.pdf)
 * [Boavizta](https://boavizta.org/), un groupe de travail & des ressources sous licences libres dédiés à l'évaluation d’impacts environnementaux du numérique des organisations.
